@@ -5,7 +5,7 @@
 # title = MuonEG
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/MuonEG/v7-6-4_Run2015D-16Dec2015-v1/160325_073114
 # colour = 0
-# xsec = 0
+# xsec = 0.0
 # size = 25711428042
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/MuonEG/v7-6-4_Run2015D-16Dec2015-v1/160325_073114/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/MuonEG/v7-6-4_Run2015D-16Dec2015-v1/160325_073114/0000/catTuple_10.root

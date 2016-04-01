@@ -5,7 +5,7 @@
 # title = QCD
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082731
 # colour = 400
-# xsec = 2890800
+# xsec = 2890800.0
 # size = 54311207157
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082731/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082731/0000/catTuple_10.root

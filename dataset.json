@@ -7,7 +7,7 @@
         "nevt": 767121, 
         "path": "/store/group/CAT/SingleMuon/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072224", 
         "title": "SingleMuon", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/SingleMuon/Run2015D-16Dec2015-v1/MINIAOD", 
@@ -17,7 +17,7 @@
         "nevt": 84844187, 
         "path": "/store/group/CAT/SingleMuon/v7-6-4_Run2015D-16Dec2015-v1/160325_072309", 
         "title": "SingleMuon", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/SingleElectron/Run2015C_25ns-16Dec2015-v1/MINIAOD", 
@@ -27,7 +27,7 @@
         "nevt": 789291, 
         "path": "/store/group/CAT/SingleElectron/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072357", 
         "title": "SingleElectron", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/SingleElectron/Run2015D-16Dec2015-v1/MINIAOD", 
@@ -37,7 +37,7 @@
         "nevt": 124106846, 
         "path": "/store/group/CAT/SingleElectron/v7-6-4_Run2015D-16Dec2015-v1/160325_072444", 
         "title": "SingleElectron", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/SinglePhoton/Run2015C_25ns-16Dec2015-v1/MINIAOD", 
@@ -47,7 +47,7 @@
         "nevt": 544927, 
         "path": "/store/group/CAT/SinglePhoton/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072531", 
         "title": "SinglePhoton", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/SinglePhoton/Run2015D-16Dec2015-v1/MINIAOD", 
@@ -57,7 +57,7 @@
         "nevt": 31313463, 
         "path": "/store/group/CAT/SinglePhoton/v7-6-4_Run2015D-16Dec2015-v1/160325_072618", 
         "title": "SinglePhoton", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/DoubleEG/Run2015C_25ns-16Dec2015-v1/MINIAOD", 
@@ -67,7 +67,7 @@
         "nevt": 1854782, 
         "path": "/store/group/CAT/DoubleEG/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072713", 
         "title": "DoubleEG", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/DoubleEG/Run2015D-16Dec2015-v2/MINIAOD", 
@@ -77,7 +77,7 @@
         "nevt": 84856800, 
         "path": "/store/group/CAT/DoubleEG/v7-6-4_Run2015D-16Dec2015-v2/160325_072801", 
         "title": "DoubleEG", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/DoubleMuon/Run2015C_25ns-16Dec2015-v1/MINIAOD", 
@@ -87,7 +87,7 @@
         "nevt": 709232, 
         "path": "/store/group/CAT/DoubleMuon/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072854", 
         "title": "DoubleMuon", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/DoubleMuon/Run2015D-16Dec2015-v1/MINIAOD", 
@@ -97,7 +97,7 @@
         "nevt": 47327565, 
         "path": "/store/group/CAT/DoubleMuon/v7-6-4_Run2015D-16Dec2015-v1/160325_072939", 
         "title": "DoubleMuon", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/MuonEG/Run2015C_25ns-16Dec2015-v1/MINIAOD", 
@@ -107,7 +107,7 @@
         "nevt": 97740, 
         "path": "/store/group/CAT/MuonEG/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_073029", 
         "title": "MuonEG", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/MuonEG/Run2015D-16Dec2015-v1/MINIAOD", 
@@ -117,7 +117,7 @@
         "nevt": 12412690, 
         "path": "/store/group/CAT/MuonEG/v7-6-4_Run2015D-16Dec2015-v1/160325_073114", 
         "title": "MuonEG", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/JetHT/Run2015C_25ns-16Dec2015-v1/MINIAOD", 
@@ -127,7 +127,7 @@
         "nevt": 1856426, 
         "path": "/store/group/CAT/JetHT/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_073204", 
         "title": "JetHT", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/JetHT/Run2015D-16Dec2015-v1/MINIAOD", 
@@ -137,15 +137,15 @@
         "nevt": 68971060, 
         "path": "/store/group/CAT/JetHT/v7-6-4_Run2015D-16Dec2015-v1/160325_073248/", 
         "title": "JetHT", 
-        "xsec": 0
+        "xsec": 0.0
     }, 
     {
         "DataSetName": "/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext4-v1/MINIAODSIM", 
         "colour": 600, 
-        "lumi": 0.0, 
+        "lumi": 19.0222771, 
         "name": "DYJets", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 114613024, 
+        "path": "/store/group/CAT/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext4-v1/160325_073338", 
         "title": "Z/#gamma#rightarrow ll", 
         "xsec": 6025.2
     }, 
@@ -157,7 +157,7 @@
         "nevt": 30899063, 
         "path": "/store/group/CAT/DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_073425", 
         "title": "Z/#gamma#rightarrow ll", 
-        "xsec": 18610
+        "xsec": 18610.0
     }, 
     {
         "DataSetName": "/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -165,7 +165,7 @@
         "lumi": 18.6518406, 
         "name": "DYJets_MG", 
         "nevt": 112381070, 
-        "path": "/store/group/CAT/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext4-v1/160325_073338", 
+        "path": "/store/group/CAT/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_073512", 
         "title": "Z/#gamma#rightarrow ll:MG", 
         "xsec": 6025.2
     }, 
@@ -177,7 +177,7 @@
         "nevt": 8771481, 
         "path": "/store/group/CAT/DYJetsToLL_M-5to50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_073601", 
         "title": "Z/#gamma#rightarrow ll:MG", 
-        "xsec": 71310
+        "xsec": 71310.0
     }, 
     {
         "DataSetName": "/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -212,10 +212,10 @@
     {
         "DataSetName": "/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-scaleup-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 632, 
-        "lumi": 0.0, 
+        "lumi": 50.05559296, 
         "name": "TTJets_scaleup", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 41634240, 
+        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-scaleup-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_073907", 
         "title": "t#bar{t}+Jets:aMC@NLO/scaleup", 
         "xsec": 831.76
     }, 
@@ -322,10 +322,10 @@
     {
         "DataSetName": "/TT_TuneEE5C_13TeV-amcatnlo-herwigpp/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 632, 
-        "lumi": 0.0, 
+        "lumi": 23.93944888, 
         "name": "TT_amcatnlo-herwigpp", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 19911876, 
+        "path": "/store/group/CAT/TT_TuneEE5C_13TeV-amcatnlo-herwigpp/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_074756", 
         "title": "t#bar{t}+Jets:aMC@NLO:herwigpp", 
         "xsec": 831.76
     }, 
@@ -432,10 +432,10 @@
     {
         "DataSetName": "/ZZTo4L_13TeV_powheg_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 432, 
-        "lumi": 0.0, 
+        "lumi": 5235.501592, 
         "name": "ZZTo4L_powheg", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 6575790, 
+        "path": "/store/group/CAT/ZZTo4L_13TeV_powheg_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075645", 
         "title": "Dibosons:powheg", 
         "xsec": 1.256
     }, 
@@ -462,10 +462,10 @@
     {
         "DataSetName": "/ZZTo2L2Nu_13TeV_powheg_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 432, 
-        "lumi": 0.0, 
+        "lumi": 15366.0461, 
         "name": "ZZTo2L2Nu_powheg", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 8666450, 
+        "path": "/store/group/CAT/ZZTo2L2Nu_13TeV_powheg_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075904", 
         "title": "Dibosons:powheg", 
         "xsec": 0.564
     }, 
@@ -482,10 +482,10 @@
     {
         "DataSetName": "/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 432, 
-        "lumi": 0.0, 
+        "lumi": 4568.286148, 
         "name": "WZTo2L2Q", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 25559561, 
+        "path": "/store/group/CAT/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160327_185921", 
         "title": "Dibosons:aMC@NLO", 
         "xsec": 5.595
     }, 
@@ -655,7 +655,7 @@
         "lumi": 1929.515419, 
         "name": "ttWJetsToLNu", 
         "nevt": 394200, 
-        "path": "/store/group/CAT/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081409", 
+        "path": "/store/group/CAT/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081307", 
         "title": "ttW+Jets#rightarrow l#nu", 
         "xsec": 0.2043
     }, 
@@ -687,15 +687,15 @@
         "nevt": 0, 
         "path": "", 
         "title": "QCD", 
-        "xsec": 3819570
+        "xsec": 3819570.0
     }, 
     {
         "DataSetName": "/QCD_Pt-20to30_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 400, 
-        "lumi": 0.0, 
+        "lumi": 0.01047544786, 
         "name": "QCD_Pt-20to30_MuEnriched", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 31009404, 
+        "path": "/store/group/CAT/QCD_Pt-20to30_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081631", 
         "title": "QCD", 
         "xsec": 2960198.4
     }, 
@@ -712,10 +712,10 @@
     {
         "DataSetName": "/QCD_Pt-50to80_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 400, 
-        "lumi": 0.0, 
+        "lumi": 0.04592158336, 
         "name": "QCD_Pt-50to80_MuEnriched", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 20090881, 
+        "path": "/store/group/CAT/QCD_Pt-50to80_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081814", 
         "title": "QCD", 
         "xsec": 437504.1
     }, 
@@ -807,7 +807,7 @@
         "nevt": 5471097, 
         "path": "/store/group/CAT/QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082511", 
         "title": "QCD", 
-        "xsec": 2302200
+        "xsec": 2302200.0
     }, 
     {
         "DataSetName": "/QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -817,7 +817,7 @@
         "nevt": 9260322, 
         "path": "/store/group/CAT/QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082555", 
         "title": "QCD", 
-        "xsec": 5352960
+        "xsec": 5352960.0
     }, 
     {
         "DataSetName": "/QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -827,7 +827,7 @@
         "nevt": 0, 
         "path": "", 
         "title": "QCD", 
-        "xsec": 9928000
+        "xsec": 9928000.0
     }, 
     {
         "DataSetName": "/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -837,17 +837,17 @@
         "nevt": 22463814, 
         "path": "/store/group/CAT/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082731", 
         "title": "QCD", 
-        "xsec": 2890800
+        "xsec": 2890800.0
     }, 
     {
         "DataSetName": "/QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 400, 
-        "lumi": 0.0, 
+        "lumi": 0.1025448857, 
         "name": "QCD_Pt-80to120_EMEnriched", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 35890710, 
+        "path": "/store/group/CAT/QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082817", 
         "title": "QCD", 
-        "xsec": 350000
+        "xsec": 350000.0
     }, 
     {
         "DataSetName": "/QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -857,7 +857,7 @@
         "nevt": 0, 
         "path": "", 
         "title": "QCD", 
-        "xsec": 62964
+        "xsec": 62964.0
     }, 
     {
         "DataSetName": "/QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -867,27 +867,27 @@
         "nevt": 11518871, 
         "path": "/store/group/CAT/QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082949", 
         "title": "QCD", 
-        "xsec": 18810
+        "xsec": 18810.0
     }, 
     {
         "DataSetName": "/QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 400, 
-        "lumi": 0.0, 
+        "lumi": 5.247412593, 
         "name": "QCD_Pt-300toInf_EMEnriched", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 7084007, 
+        "path": "/store/group/CAT/QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083035", 
         "title": "QCD", 
-        "xsec": 1350
+        "xsec": 1350.0
     }, 
     {
         "DataSetName": "/QCD_Pt-30to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 400, 
-        "lumi": 0.0, 
+        "lumi": 0.7318502058, 
         "name": "QCD_DoubleEM_Pt_30to40", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 17783960, 
+        "path": "/store/group/CAT/QCD_Pt-30to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083122", 
         "title": "QCD", 
-        "xsec": 24300
+        "xsec": 24300.0
     }, 
     {
         "DataSetName": "/QCD_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -897,17 +897,17 @@
         "nevt": 19871746, 
         "path": "/store/group/CAT/QCD_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083209", 
         "title": "QCD", 
-        "xsec": 108240
+        "xsec": 108240.0
     }, 
     {
         "DataSetName": "/QCD_Pt-30toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 400, 
-        "lumi": 0.0, 
+        "lumi": 0.1383525585, 
         "name": "QCD_DoubleEM_Pt_30toInf", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 35874265, 
+        "path": "/store/group/CAT/QCD_Pt-30toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083257", 
         "title": "QCD", 
-        "xsec": 259296
+        "xsec": 259296.0
     }, 
     {
         "DataSetName": "/QCD_Pt_15to20_bcToE_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -917,7 +917,7 @@
         "nevt": 0, 
         "path": "", 
         "title": "QCD", 
-        "xsec": 254596
+        "xsec": 254596.0
     }, 
     {
         "DataSetName": "/QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -982,12 +982,12 @@
     {
         "DataSetName": "/QCD_HT100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 400, 
-        "lumi": 0.0, 
+        "lumi": 82095.8, 
         "name": "QCD_HT100to200", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 82095800, 
+        "path": "/store/group/CAT/QCD_HT100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083909", 
         "title": "QCD", 
-        "xsec": 1
+        "xsec": 1.0
     }, 
     {
         "DataSetName": "/QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1017,7 +1017,7 @@
         "nevt": 18727986, 
         "path": "/store/group/CAT/QCD_HT200to300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084127", 
         "title": "QCD", 
-        "xsec": 1740000
+        "xsec": 1740000.0
     }, 
     {
         "DataSetName": "/QCD_HT300to500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1027,7 +1027,7 @@
         "nevt": 16869993, 
         "path": "/store/group/CAT/QCD_HT300to500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084212", 
         "title": "QCD", 
-        "xsec": 367000
+        "xsec": 367000.0
     }, 
     {
         "DataSetName": "/QCD_HT500to700_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1037,7 +1037,7 @@
         "nevt": 19619081, 
         "path": "/store/group/CAT/QCD_HT500to700_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084259", 
         "title": "QCD", 
-        "xsec": 29400
+        "xsec": 29400.0
     }, 
     {
         "DataSetName": "/QCD_HT700to1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1047,17 +1047,17 @@
         "nevt": 15498643, 
         "path": "/store/group/CAT/QCD_HT700to1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084344", 
         "title": "QCD", 
-        "xsec": 6524
+        "xsec": 6524.0
     }, 
     {
         "DataSetName": "/QCD_Pt-15TTo7000_TuneZ2star-Flat_13TeV_pythia6/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 400, 
-        "lumi": 0.0, 
+        "lumi": 9810.28, 
         "name": "QCD_Pt-15TTo7000", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 9810280, 
+        "path": "/store/group/CAT/QCD_Pt-15TTo7000_TuneZ2star-Flat_13TeV_pythia6/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084433", 
         "title": "QCD", 
-        "xsec": 1
+        "xsec": 1.0
     }, 
     {
         "DataSetName": "/QCD_Pt_1000to1400_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1065,7 +1065,7 @@
         "lumi": 726.5430067, 
         "name": "QCD_Pt_1000to1400", 
         "nevt": 6842800, 
-        "path": "/store/group/CAT/QCD_Pt_10to15_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084606", 
+        "path": "/store/group/CAT/QCD_Pt_1000to1400_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084521", 
         "title": "QCD", 
         "xsec": 9.4183
     }, 
@@ -1077,7 +1077,7 @@
         "nevt": 6842800, 
         "path": "/store/group/CAT/QCD_Pt_10to15_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084606", 
         "title": "QCD", 
-        "xsec": 5887580000
+        "xsec": 5887580000.0
     }, 
     {
         "DataSetName": "/QCD_Pt_120to170_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1087,7 +1087,7 @@
         "nevt": 6848223, 
         "path": "/store/group/CAT/QCD_Pt_120to170_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084653", 
         "title": "QCD", 
-        "xsec": 471100
+        "xsec": 471100.0
     }, 
     {
         "DataSetName": "/QCD_Pt_1400to1800_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1102,12 +1102,12 @@
     {
         "DataSetName": "/QCD_Pt_15to30_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 400, 
-        "lumi": 0.0, 
+        "lumi": 2.061121905e-05, 
         "name": "QCD_Pt_15to30", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 37871260, 
+        "path": "/store/group/CAT/QCD_Pt_15to30_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084825", 
         "title": "QCD", 
-        "xsec": 1837410000
+        "xsec": 1837410000.0
     }, 
     {
         "DataSetName": "/QCD_Pt_170to300_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1117,7 +1117,7 @@
         "nevt": 6918748, 
         "path": "/store/group/CAT/QCD_Pt_170to300_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084916", 
         "title": "QCD", 
-        "xsec": 117276
+        "xsec": 117276.0
     }, 
     {
         "DataSetName": "/QCD_Pt_1800to2400_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1142,12 +1142,12 @@
     {
         "DataSetName": "/QCD_Pt_300to470_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 400, 
-        "lumi": 0.0, 
+        "lumi": 0.7630014061, 
         "name": "QCD_Pt_300to470", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 5968960, 
+        "path": "/store/group/CAT/QCD_Pt_300to470_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085134", 
         "title": "QCD", 
-        "xsec": 7823
+        "xsec": 7823.0
     }, 
     {
         "DataSetName": "/QCD_Pt_30to50_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1157,7 +1157,7 @@
         "nevt": 9808025, 
         "path": "/store/group/CAT/QCD_Pt_30to50_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085220", 
         "title": "QCD", 
-        "xsec": 140932000
+        "xsec": 140932000.0
     }, 
     {
         "DataSetName": "/QCD_Pt_3200toInf_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1187,7 +1187,7 @@
         "nevt": 9775360, 
         "path": "/store/group/CAT/QCD_Pt_50to80_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085437", 
         "title": "QCD", 
-        "xsec": 19204300
+        "xsec": 19204300.0
     }, 
     {
         "DataSetName": "/QCD_Pt_5to10_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1197,7 +1197,7 @@
         "nevt": 6991536, 
         "path": "/store/group/CAT/QCD_Pt_5to10_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085529", 
         "title": "QCD", 
-        "xsec": 61018300000
+        "xsec": 61018300000.0
     }, 
     {
         "DataSetName": "/QCD_Pt_600to800_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1227,7 +1227,7 @@
         "nevt": 6953590, 
         "path": "/store/group/CAT/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085750", 
         "title": "QCD", 
-        "xsec": 2762530
+        "xsec": 2762530.0
     }, 
     {
         "DataSetName": "/GJet_Pt-20to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1242,10 +1242,10 @@
     {
         "DataSetName": "/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 900, 
-        "lumi": 0.0, 
+        "lumi": 82.97134498, 
         "name": "GJets_Pt40toInfo", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 71613298, 
+        "path": "/store/group/CAT/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085921", 
         "title": "Gamma", 
         "xsec": 863.1088
     }, 
@@ -1285,7 +1285,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-10_Mphi-100", 
         "nevt": 249971, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_090539", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-10_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_090230", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-10_Mphi-100", 
         "xsec": 0.1901
     }, 
@@ -1484,8 +1484,8 @@
         "colour": 400, 
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-10", 
-        "nevt": 0, 
-        "path": "", 
+        "nevt": 240379, 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091830", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-10", 
         "xsec": 19.59
     }, 
