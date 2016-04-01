@@ -5,5 +5,5 @@
 # title = Gamma
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd
 # colour = 900
-# xsec = 0.0
+# xsec = 863.1088
 # size = 20606

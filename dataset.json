@@ -1232,12 +1232,12 @@
     {
         "DataSetName": "/GJet_Pt-20to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 900, 
-        "lumi": 0.0, 
+        "lumi": 112.9930032, 
         "name": "GJets_Pt20to40", 
         "nevt": 24701495, 
         "path": "/store/group/CAT/GJet_Pt-20to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085835", 
         "title": "Gamma", 
-        "xsec": 0.0
+        "xsec": 218.610837
     }, 
     {
         "DataSetName": "/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
@@ -1247,12 +1247,12 @@
         "nevt": 0, 
         "path": "", 
         "title": "Gamma", 
-        "xsec": 0.0
+        "xsec": 863.1088
     }, 
     {
         "DataSetName": "/TTGJets_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 900, 
-        "lumi": 0.0, 
+        "lumi": 1318.39762, 
         "name": "TTG", 
         "nevt": 4874116, 
         "path": "/store/group/CAT/TTGJets_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_090009", 
@@ -1262,22 +1262,22 @@
     {
         "DataSetName": "/WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 900, 
-        "lumi": 0.0, 
+        "lumi": 15.05723331, 
         "name": "WGtoLNuG", 
         "nevt": 6102260, 
         "path": "/store/group/CAT/WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_090057", 
         "title": "Gamma", 
-        "xsec": 0.0
+        "xsec": 405.271
     }, 
     {
         "DataSetName": "/ZGTo2LG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 900, 
-        "lumi": 0.0, 
+        "lumi": 37.54170909, 
         "name": "ZGto2LG", 
         "nevt": 4424816, 
         "path": "/store/group/CAT/ZGTo2LG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_090143", 
         "title": "Gamma", 
-        "xsec": 0.0
+        "xsec": 117.864
     }, 
     {
         "DataSetName": "/TTbarDMJets_pseudoscalar_Mchi-10_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/MINIAODSIM", 

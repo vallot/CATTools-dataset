@@ -1,11 +1,11 @@
 # nevt = 6102260
 # DataSetName = /WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = WGtoLNuG
-# lumi = 0.0
+# lumi = 15.05723331
 # title = Gamma
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_090057
 # colour = 900
-# xsec = 0.0
+# xsec = 405.271
 # size = 19510439108
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_090057/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_090057/0000/catTuple_10.root
