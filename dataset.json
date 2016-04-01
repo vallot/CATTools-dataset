@@ -92,7 +92,7 @@
     {
         "DataSetName": "/DoubleMuon/Run2015D-16Dec2015-v1/MINIAOD", 
         "colour": 0, 
-        "lumi": 2.672, 
+        "lumi": 2.245584, 
         "name": "DoubleMuon_Run2015D", 
         "nevt": 47327565, 
         "path": "/store/group/CAT/DoubleMuon/v7-6-4_Run2015D-16Dec2015-v1/160325_072939", 
