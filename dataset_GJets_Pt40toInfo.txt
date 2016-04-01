@@ -5,7 +5,7 @@
 # title = Gamma
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-3_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160222_155900
 # colour = 900
-# xsec = 0.0
+# xsec = 863.1088
 # size = 140793707187
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-3_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160222_155900/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-3_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160222_155900/0000/catTuple_10.root
