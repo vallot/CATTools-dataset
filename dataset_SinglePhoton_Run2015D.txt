@@ -1,11 +1,11 @@
 # nevt = 31313463
 # DataSetName = /SinglePhoton/Run2015D-16Dec2015-v1/MINIAOD
 # name = SinglePhoton_Run2015D
-# lumi = 2.672
+# lumi = 2.245153
 # title = SinglePhoton
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SinglePhoton/v7-6-4_Run2015D-16Dec2015-v1/160325_072618
 # colour = 0
-# xsec = 11719.1104
+# xsec = 0
 # size = 47480808954
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SinglePhoton/v7-6-4_Run2015D-16Dec2015-v1/160325_072618/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SinglePhoton/v7-6-4_Run2015D-16Dec2015-v1/160325_072618/0000/catTuple_10.root

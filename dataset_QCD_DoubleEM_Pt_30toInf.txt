@@ -5,5 +5,5 @@
 # title = QCD
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd
 # colour = 400
-# xsec = 259296.0
+# xsec = 259296
 # size = 20606

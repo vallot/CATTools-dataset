@@ -5,7 +5,7 @@
 # title = DoubleMuon
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleMuon/v7-6-4_Run2015D-16Dec2015-v1/160325_072939
 # colour = 0
-# xsec = 17712.41205
+# xsec = 0
 # size = 65554053191
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleMuon/v7-6-4_Run2015D-16Dec2015-v1/160325_072939/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleMuon/v7-6-4_Run2015D-16Dec2015-v1/160325_072939/0000/catTuple_10.root

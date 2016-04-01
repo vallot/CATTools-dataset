@@ -1,11 +1,11 @@
 # nevt = 1854782
 # DataSetName = /DoubleEG/Run2015C_25ns-16Dec2015-v1/MINIAOD
 # name = DoubleEG_Run2015C
-# lumi = 0.018
+# lumi = 0.017226
 # title = DoubleEG
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleEG/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072713
 # colour = 0
-# xsec = 103043.4444
+# xsec = 0
 # size = 2524760050
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleEG/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072713/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleEG/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072713/0000/catTuple_10.root

@@ -1,11 +1,11 @@
 # nevt = 709232
 # DataSetName = /DoubleMuon/Run2015C_25ns-16Dec2015-v1/MINIAOD
 # name = DoubleMuon_Run2015C
-# lumi = 0.018
+# lumi = 0.017226
 # title = DoubleMuon
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleMuon/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072854
 # colour = 0
-# xsec = 39401.77778
+# xsec = 0
 # size = 1146555384
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleMuon/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072854/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleMuon/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072854/0000/catTuple_10.root

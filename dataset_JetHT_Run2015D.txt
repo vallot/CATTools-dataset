@@ -1,11 +1,11 @@
 # nevt = 68971060
 # DataSetName = /JetHT/Run2015D-16Dec2015-v1/MINIAOD
 # name = JetHT_Run2015D
-# lumi = 2.666
+# lumi = 0.2240569
 # title = JetHT
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/JetHT/v7-6-4_Run2015D-16Dec2015-v1/160325_073248/
 # colour = 0
-# xsec = 25870615.15
+# xsec = 0
 # size = 106854598876
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/JetHT/v7-6-4_Run2015D-16Dec2015-v1/160325_073248/000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/JetHT/v7-6-4_Run2015D-16Dec2015-v1/160325_073248/000/catTuple_10.root
