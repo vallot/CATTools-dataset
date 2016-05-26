@@ -3,11 +3,11 @@
 # name = WpWpQCD
 # lumi = 7802.340702
 # title = Dibosons:MG
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080441
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095208
 # colour = 432
 # xsec = 0.01538
-# size = 598233854
-root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080441/0000/catTuple_1.root
-root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080441/0000/catTuple_2.root
-root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080441/0000/catTuple_3.root
-root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080441/0000/catTuple_4.root
+# size = 635009924
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095208/0000/catTuple_1.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095208/0000/catTuple_2.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095208/0000/catTuple_3.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095208/0000/catTuple_4.root

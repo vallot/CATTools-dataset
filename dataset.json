@@ -5,7 +5,7 @@
         "lumi": 0.017226, 
         "name": "SingleMuon_Run2015C", 
         "nevt": 767121, 
-        "path": "/store/group/CAT/SingleMuon/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072224", 
+        "path": "/store/group/CAT/SingleMuon/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_083512", 
         "title": "SingleMuon", 
         "xsec": 0.0
     }, 
@@ -15,7 +15,7 @@
         "lumi": 2.244918, 
         "name": "SingleMuon_Run2015D", 
         "nevt": 84844187, 
-        "path": "/store/group/CAT/SingleMuon/v7-6-4_Run2015D-16Dec2015-v1/160325_072309", 
+        "path": "/store/group/CAT/SingleMuon/v7-6-5_Run2015D-16Dec2015-v1/160524_083600", 
         "title": "SingleMuon", 
         "xsec": 0.0
     }, 
@@ -25,7 +25,7 @@
         "lumi": 0.017226, 
         "name": "SingleElectron_Run2015C", 
         "nevt": 789291, 
-        "path": "/store/group/CAT/SingleElectron/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072357", 
+        "path": "/store/group/CAT/SingleElectron/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_083647", 
         "title": "SingleElectron", 
         "xsec": 0.0
     }, 
@@ -35,7 +35,7 @@
         "lumi": 2.245037, 
         "name": "SingleElectron_Run2015D", 
         "nevt": 124106846, 
-        "path": "/store/group/CAT/SingleElectron/v7-6-4_Run2015D-16Dec2015-v1/160325_072444", 
+        "path": "/store/group/CAT/SingleElectron/v7-6-5_Run2015D-16Dec2015-v1/160524_083738", 
         "title": "SingleElectron", 
         "xsec": 0.0
     }, 
@@ -45,7 +45,7 @@
         "lumi": 0.017226, 
         "name": "SinglePhoton_Run2015C", 
         "nevt": 544927, 
-        "path": "/store/group/CAT/SinglePhoton/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072531", 
+        "path": "/store/group/CAT/SinglePhoton/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_083828", 
         "title": "SinglePhoton", 
         "xsec": 0.0
     }, 
@@ -55,7 +55,7 @@
         "lumi": 2.245153, 
         "name": "SinglePhoton_Run2015D", 
         "nevt": 31313463, 
-        "path": "/store/group/CAT/SinglePhoton/v7-6-4_Run2015D-16Dec2015-v1/160325_072618", 
+        "path": "/store/group/CAT/SinglePhoton/v7-6-5_Run2015D-16Dec2015-v1/160524_083919", 
         "title": "SinglePhoton", 
         "xsec": 0.0
     }, 
@@ -65,7 +65,7 @@
         "lumi": 0.017226, 
         "name": "DoubleEG_Run2015C", 
         "nevt": 1854782, 
-        "path": "/store/group/CAT/DoubleEG/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072713", 
+        "path": "/store/group/CAT/DoubleEG/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084012", 
         "title": "DoubleEG", 
         "xsec": 0.0
     }, 
@@ -75,7 +75,7 @@
         "lumi": 2.245508, 
         "name": "DoubleEG_Run2015D", 
         "nevt": 84856800, 
-        "path": "/store/group/CAT/DoubleEG/v7-6-4_Run2015D-16Dec2015-v2/160325_072801", 
+        "path": "/store/group/CAT/DoubleEG/v7-6-5_Run2015D-16Dec2015-v2/160524_084101", 
         "title": "DoubleEG", 
         "xsec": 0.0
     }, 
@@ -85,7 +85,7 @@
         "lumi": 0.017226, 
         "name": "DoubleMuon_Run2015C", 
         "nevt": 709232, 
-        "path": "/store/group/CAT/DoubleMuon/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_072854", 
+        "path": "/store/group/CAT/DoubleMuon/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084148", 
         "title": "DoubleMuon", 
         "xsec": 0.0
     }, 
@@ -95,7 +95,7 @@
         "lumi": 2.245584, 
         "name": "DoubleMuon_Run2015D", 
         "nevt": 47327565, 
-        "path": "/store/group/CAT/DoubleMuon/v7-6-4_Run2015D-16Dec2015-v1/160325_072939", 
+        "path": "/store/group/CAT/DoubleMuon/v7-6-5_Run2015D-16Dec2015-v1/160524_084241", 
         "title": "DoubleMuon", 
         "xsec": 0.0
     }, 
@@ -105,7 +105,7 @@
         "lumi": 0.017226, 
         "name": "MuonEG_Run2015C", 
         "nevt": 97740, 
-        "path": "/store/group/CAT/MuonEG/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_073029", 
+        "path": "/store/group/CAT/MuonEG/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084331", 
         "title": "MuonEG", 
         "xsec": 0.0
     }, 
@@ -115,7 +115,7 @@
         "lumi": 2.24563, 
         "name": "MuonEG_Run2015D", 
         "nevt": 12412690, 
-        "path": "/store/group/CAT/MuonEG/v7-6-4_Run2015D-16Dec2015-v1/160325_073114", 
+        "path": "/store/group/CAT/MuonEG/v7-6-5_Run2015D-16Dec2015-v1/160524_084420", 
         "title": "MuonEG", 
         "xsec": 0.0
     }, 
@@ -125,7 +125,7 @@
         "lumi": 0.017226, 
         "name": "JetHT_Run2015C", 
         "nevt": 1856426, 
-        "path": "/store/group/CAT/JetHT/v7-6-4_Run2015C_25ns-16Dec2015-v1/160325_073204", 
+        "path": "/store/group/CAT/JetHT/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084511", 
         "title": "JetHT", 
         "xsec": 0.0
     }, 
@@ -135,7 +135,7 @@
         "lumi": 0.2240569, 
         "name": "JetHT_Run2015D", 
         "nevt": 68971060, 
-        "path": "/store/group/CAT/JetHT/v7-6-4_Run2015D-16Dec2015-v1/160325_073248/", 
+        "path": "/store/group/CAT/JetHT/v7-6-5_Run2015D-16Dec2015-v1/160524_084616", 
         "title": "JetHT", 
         "xsec": 0.0
     }, 
@@ -145,17 +145,17 @@
         "lumi": 19.0222771, 
         "name": "DYJets", 
         "nevt": 114613024, 
-        "path": "/store/group/CAT/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext4-v1/160325_073338", 
+        "path": "/store/group/CAT/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext4-v1/160524_084851", 
         "title": "Z/#gamma#rightarrow ll", 
         "xsec": 6025.2
     }, 
     {
         "DataSetName": "/DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 600, 
-        "lumi": 1.660347286, 
+        "lumi": 1.208068686, 
         "name": "DYJets_10to50", 
         "nevt": 30899063, 
-        "path": "/store/group/CAT/DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_073425", 
+        "path": "/store/group/CAT/DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_084945", 
         "title": "Z/#gamma#rightarrow ll", 
         "xsec": 18610.0
     }, 
@@ -165,7 +165,7 @@
         "lumi": 18.6518406, 
         "name": "DYJets_MG", 
         "nevt": 112381070, 
-        "path": "/store/group/CAT/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_073512", 
+        "path": "/store/group/CAT/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_085048", 
         "title": "Z/#gamma#rightarrow ll:MG", 
         "xsec": 6025.2
     }, 
@@ -175,7 +175,7 @@
         "lumi": 0.1230049222, 
         "name": "DYJets_MG_5to50", 
         "nevt": 8771481, 
-        "path": "/store/group/CAT/DYJetsToLL_M-5to50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_073601", 
+        "path": "/store/group/CAT/DYJetsToLL_M-5to50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_085143", 
         "title": "Z/#gamma#rightarrow ll:MG", 
         "xsec": 71310.0
     }, 
@@ -185,7 +185,7 @@
         "lumi": 0.392612053, 
         "name": "WJets", 
         "nevt": 24156124, 
-        "path": "/store/group/CAT/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_073648", 
+        "path": "/store/group/CAT/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_085249", 
         "title": "W+Jets", 
         "xsec": 61526.7
     }, 
@@ -195,7 +195,7 @@
         "lumi": 12.28134438, 
         "name": "TTJets_MG5", 
         "nevt": 10215131, 
-        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_073735", 
+        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_085359", 
         "title": "t#bar{t}+Jets:MG", 
         "xsec": 831.76
     }, 
@@ -205,7 +205,7 @@
         "lumi": 45.99560691, 
         "name": "TTJets_aMC", 
         "nevt": 38257306, 
-        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_073822", 
+        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_085454", 
         "title": "t#bar{t}+Jets:aMC@NLO", 
         "xsec": 831.76
     }, 
@@ -215,7 +215,7 @@
         "lumi": 50.05559296, 
         "name": "TTJets_scaleup", 
         "nevt": 41634240, 
-        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-scaleup-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_073907", 
+        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-scaleup-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_085942", 
         "title": "t#bar{t}+Jets:aMC@NLO/scaleup", 
         "xsec": 831.76
     }, 
@@ -225,7 +225,7 @@
         "lumi": 47.48487905, 
         "name": "TTJets_scaledown", 
         "nevt": 39496023, 
-        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-scaledown-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_073957", 
+        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-scaledown-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_090226", 
         "title": "t#bar{t}+Jets:aMC@NLO/scaledn", 
         "xsec": 831.76
     }, 
@@ -235,7 +235,7 @@
         "lumi": 117.8157666, 
         "name": "TT_powheg", 
         "nevt": 97994442, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_13TeV-powheg-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext3-v1/160325_074050", 
+        "path": "/store/group/CAT/TT_TuneCUETP8M1_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext3-v1/160524_090311", 
         "title": "t#bar{t}+Jets", 
         "xsec": 831.76
     }, 
@@ -245,7 +245,7 @@
         "lumi": 11.94199769, 
         "name": "TT_powheg_scaledown", 
         "nevt": 9932876, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_13TeV-powheg-scaledown-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_074138", 
+        "path": "/store/group/CAT/TT_TuneCUETP8M1_13TeV-powheg-scaledown-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160525_115951", 
         "title": "t#bar{t}+Jets:powheg/scaledn", 
         "xsec": 831.76
     }, 
@@ -255,7 +255,7 @@
         "lumi": 11.92624796, 
         "name": "TT_powheg_scaleup", 
         "nevt": 9919776, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_13TeV-powheg-scaleup-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_074224", 
+        "path": "/store/group/CAT/TT_TuneCUETP8M1_13TeV-powheg-scaleup-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_090939", 
         "title": "t#bar{t}+Jets:powheg/scaleup", 
         "xsec": 831.76
     }, 
@@ -265,7 +265,7 @@
         "lumi": 20.21723516, 
         "name": "TT_powheg_mtop1665", 
         "nevt": 19879055, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1665_13TeV-powheg-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_074312", 
+        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1665_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_091213", 
         "title": "t#bar{t}+Jets:powheg/mtop1665", 
         "xsec": 983.2726799
     }, 
@@ -275,7 +275,7 @@
         "lumi": 32.42048636, 
         "name": "TT_powheg_mtop1695", 
         "nevt": 29302375, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1695_13TeV-powheg-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_074358", 
+        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1695_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_091257", 
         "title": "t#bar{t}+Jets:powheg/mtop1695", 
         "xsec": 903.8228075
     }, 
@@ -285,7 +285,7 @@
         "lumi": 23.03940147, 
         "name": "TT_powheg_mtop1715", 
         "nevt": 19698933, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1715_13TeV-powheg-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_074449", 
+        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1715_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_091353", 
         "title": "t#bar{t}+Jets:powheg/mtop1715", 
         "xsec": 855.0106228
     }, 
@@ -295,7 +295,7 @@
         "lumi": 24.52757124, 
         "name": "TT_powheg_mtop1735", 
         "nevt": 19848747, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1735_13TeV-powheg-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_074537", 
+        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1735_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160525_120157", 
         "title": "t#bar{t}+Jets:powheg/mtop1735", 
         "xsec": 809.2422526
     }, 
@@ -305,7 +305,7 @@
         "lumi": 12.604985, 
         "name": "TT_powheg_mtop1755", 
         "nevt": 9659200, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1755_13TeV-powheg-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_074625", 
+        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1755_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092027", 
         "title": "t#bar{t}+Jets:powheg/mtop1755", 
         "xsec": 766.2999997
     }, 
@@ -315,7 +315,7 @@
         "lumi": 27.65309324, 
         "name": "TT_powheg_mtop1785", 
         "nevt": 19543889, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1785_13TeV-powheg-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_074709", 
+        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1785_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092155", 
         "title": "t#bar{t}+Jets:powheg/mtop1785", 
         "xsec": 706.7523632
     }, 
@@ -325,7 +325,7 @@
         "lumi": 23.93944888, 
         "name": "TT_amcatnlo-herwigpp", 
         "nevt": 19911876, 
-        "path": "/store/group/CAT/TT_TuneEE5C_13TeV-amcatnlo-herwigpp/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_074756", 
+        "path": "/store/group/CAT/TT_TuneEE5C_13TeV-amcatnlo-herwigpp/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092429", 
         "title": "t#bar{t}+Jets:aMC@NLO:herwigpp", 
         "xsec": 831.76
     }, 
@@ -335,7 +335,7 @@
         "lumi": 23.30415384, 
         "name": "TT_powheg-herwigpp", 
         "nevt": 19383463, 
-        "path": "/store/group/CAT/TT_TuneEE5C_13TeV-powheg-herwigpp/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_074845", 
+        "path": "/store/group/CAT/TT_TuneEE5C_13TeV-powheg-herwigpp/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092515", 
         "title": "t#bar{t}+Jets:powheg:herwigpp", 
         "xsec": 831.76
     }, 
@@ -355,7 +355,7 @@
         "lumi": 26.68539326, 
         "name": "SingleTbar_tW", 
         "nevt": 950000, 
-        "path": "/store/group/CAT/ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075024", 
+        "path": "/store/group/CAT/ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092716", 
         "title": "Single top", 
         "xsec": 35.6
     }, 
@@ -365,7 +365,7 @@
         "lumi": 28.08988764, 
         "name": "SingleTop_tW", 
         "nevt": 1000000, 
-        "path": "/store/group/CAT/ST_tW_top_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075113", 
+        "path": "/store/group/CAT/ST_tW_top_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092802", 
         "title": "Single top", 
         "xsec": 35.6
     }, 
@@ -375,7 +375,7 @@
         "lumi": 61.82335102, 
         "name": "SingleTbar_t", 
         "nevt": 1630900, 
-        "path": "/store/group/CAT/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075156", 
+        "path": "/store/group/CAT/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092851", 
         "title": "Single top", 
         "xsec": 26.38
     }, 
@@ -385,17 +385,17 @@
         "lumi": 74.42364088, 
         "name": "SingleTop_t", 
         "nevt": 3299200, 
-        "path": "/store/group/CAT/ST_t-channel_top_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075253", 
+        "path": "/store/group/CAT/ST_t-channel_top_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093030", 
         "title": "Single top", 
         "xsec": 44.33
     }, 
     {
         "DataSetName": "/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v2/MINIAODSIM", 
         "colour": 800, 
-        "lumi": 297.1428571, 
+        "lumi": 185.0902857, 
         "name": "SingleTop_s", 
         "nevt": 998400, 
-        "path": "/store/group/CAT/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v2/160325_075344", 
+        "path": "/store/group/CAT/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v2/160524_093124", 
         "title": "Single top", 
         "xsec": 3.36
     }, 
@@ -405,7 +405,7 @@
         "lumi": 8.327026116, 
         "name": "WW", 
         "nevt": 988418, 
-        "path": "/store/group/CAT/WW_TuneCUETP8M1_13TeV-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075433", 
+        "path": "/store/group/CAT/WW_TuneCUETP8M1_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093224", 
         "title": "Dibosons", 
         "xsec": 118.7
     }, 
@@ -415,7 +415,7 @@
         "lumi": 21.21790791, 
         "name": "WZ", 
         "nevt": 1000000, 
-        "path": "/store/group/CAT/WZ_TuneCUETP8M1_13TeV-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075515", 
+        "path": "/store/group/CAT/WZ_TuneCUETP8M1_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093316", 
         "title": "Dibosons", 
         "xsec": 47.13
     }, 
@@ -425,7 +425,7 @@
         "lumi": 59.65018459, 
         "name": "ZZ", 
         "nevt": 985600, 
-        "path": "/store/group/CAT/ZZ_TuneCUETP8M1_13TeV-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075601", 
+        "path": "/store/group/CAT/ZZ_TuneCUETP8M1_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093403", 
         "title": "Dibosons", 
         "xsec": 16.523
     }, 
@@ -435,7 +435,7 @@
         "lumi": 5235.501592, 
         "name": "ZZTo4L_powheg", 
         "nevt": 6575790, 
-        "path": "/store/group/CAT/ZZTo4L_13TeV_powheg_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075645", 
+        "path": "/store/group/CAT/ZZTo4L_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093457", 
         "title": "Dibosons:powheg", 
         "xsec": 1.256
     }, 
@@ -445,7 +445,7 @@
         "lumi": 8867.273927, 
         "name": "ZZto4L", 
         "nevt": 10747136, 
-        "path": "/store/group/CAT/ZZTo4L_13TeV-amcatnloFXFX-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075732", 
+        "path": "/store/group/CAT/ZZTo4L_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093610", 
         "title": "Dibosons:aMC@NLO", 
         "xsec": 1.212
     }, 
@@ -455,7 +455,7 @@
         "lumi": 4736.619876, 
         "name": "ZZTo2L2Q", 
         "nevt": 15251916, 
-        "path": "/store/group/CAT/ZZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075815", 
+        "path": "/store/group/CAT/ZZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093702", 
         "title": "Dibosons:aMC@NLO", 
         "xsec": 3.22
     }, 
@@ -465,7 +465,7 @@
         "lumi": 15366.0461, 
         "name": "ZZTo2L2Nu_powheg", 
         "nevt": 8666450, 
-        "path": "/store/group/CAT/ZZTo2L2Nu_13TeV_powheg_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075904", 
+        "path": "/store/group/CAT/ZZTo2L2Nu_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093753", 
         "title": "Dibosons:powheg", 
         "xsec": 0.564
     }, 
@@ -475,7 +475,7 @@
         "lumi": 158.5307932, 
         "name": "WWTo2L2Nu_powheg", 
         "nevt": 1930588, 
-        "path": "/store/group/CAT/WWTo2L2Nu_13TeV-powheg/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_075947", 
+        "path": "/store/group/CAT/WWTo2L2Nu_13TeV-powheg/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093842", 
         "title": "Dibosons:powheg", 
         "xsec": 12.178
     }, 
@@ -485,7 +485,7 @@
         "lumi": 4568.286148, 
         "name": "WZTo2L2Q", 
         "nevt": 25559561, 
-        "path": "/store/group/CAT/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160327_185921", 
+        "path": "/store/group/CAT/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093929", 
         "title": "Dibosons:aMC@NLO", 
         "xsec": 5.595
     }, 
@@ -495,7 +495,7 @@
         "lumi": 451.5029404, 
         "name": "WZTo3LNu_powheg", 
         "nevt": 2000000, 
-        "path": "/store/group/CAT/WZTo3LNu_TuneCUETP8M1_13TeV-powheg-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080051", 
+        "path": "/store/group/CAT/WZTo3LNu_TuneCUETP8M1_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_094240", 
         "title": "Dibosons:powheg", 
         "xsec": 4.42965
     }, 
@@ -505,7 +505,7 @@
         "lumi": 2384.411407, 
         "name": "WZJets", 
         "nevt": 12542004, 
-        "path": "/store/group/CAT/WZJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080137", 
+        "path": "/store/group/CAT/WZJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_123446", 
         "title": "Dibosons:aMC@NLO", 
         "xsec": 5.26
     }, 
@@ -545,7 +545,7 @@
         "lumi": 7802.340702, 
         "name": "WpWpQCD", 
         "nevt": 120000, 
-        "path": "/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080441", 
+        "path": "/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095208", 
         "title": "Dibosons:MG", 
         "xsec": 0.01538
     }, 
@@ -555,7 +555,7 @@
         "lumi": 7063.953488, 
         "name": "WpWpEWK", 
         "nevt": 145800, 
-        "path": "/store/group/CAT/WpWpJJ_EWK_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080524", 
+        "path": "/store/group/CAT/WpWpJJ_EWK_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095258", 
         "title": "Dibosons:MG", 
         "xsec": 0.02064
     }, 
@@ -565,7 +565,7 @@
         "lumi": 515.2158537, 
         "name": "WW_dps", 
         "nevt": 844954, 
-        "path": "/store/group/CAT/WW_DoubleScattering_13TeV-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080609", 
+        "path": "/store/group/CAT/WW_DoubleScattering_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095539", 
         "title": "Dibosons", 
         "xsec": 1.64
     }, 
@@ -575,17 +575,17 @@
         "lumi": 0.0, 
         "name": "ZZZ", 
         "nevt": 0, 
-        "path": "", 
+        "path": "/store/group/CAT/ZZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095849", 
         "title": "Tribosons", 
         "xsec": 0.01398
     }, 
     {
         "DataSetName": "/WZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 433, 
-        "lumi": 4488.769093, 
+        "lumi": 3934.854987, 
         "name": "WZZ", 
         "nevt": 249800, 
-        "path": "/store/group/CAT/WZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080740", 
+        "path": "/store/group/CAT/WZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_100139", 
         "title": "Tribosons", 
         "xsec": 0.05565
     }, 
@@ -595,7 +595,7 @@
         "lumi": 0.0, 
         "name": "WWZ", 
         "nevt": 0, 
-        "path": "", 
+        "path": "/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160525_120537", 
         "title": "Tribosons", 
         "xsec": 0.1651
     }, 
@@ -605,7 +605,7 @@
         "lumi": 25756.41438, 
         "name": "GG_HToMuMu", 
         "nevt": 250000, 
-        "path": "/store/group/CAT/GluGlu_HToMuMu_M125_13TeV_powheg_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080909", 
+        "path": "/store/group/CAT/GluGlu_HToMuMu_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_100814", 
         "title": "GG_H#rightarrow MuMu", 
         "xsec": 0.00970632
     }, 
@@ -615,7 +615,7 @@
         "lumi": 300854.2716, 
         "name": "VBF_HToMuMu", 
         "nevt": 249200, 
-        "path": "/store/group/CAT/VBF_HToMuMu_M125_13TeV_powheg_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_080958", 
+        "path": "/store/group/CAT/VBF_HToMuMu_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_100914", 
         "title": "VBF_H#rightarrow MuMu", 
         "xsec": 0.000828308
     }, 
@@ -625,7 +625,7 @@
         "lumi": 12924.63918, 
         "name": "ttH_bb", 
         "nevt": 3772012, 
-        "path": "/store/group/CAT/ttHTobb_M125_13TeV_powheg_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081043", 
+        "path": "/store/group/CAT/ttHTobb_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101010", 
         "title": "ttH#rightarrow bb", 
         "xsec": 0.2918466
     }, 
@@ -635,47 +635,47 @@
         "lumi": 18442.44588, 
         "name": "ttH_nonbb", 
         "nevt": 3945824, 
-        "path": "/store/group/CAT/ttHToNonbb_M125_13TeV_powheg_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081132", 
+        "path": "/store/group/CAT/ttHToNonbb_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101108", 
         "title": "ttH (non bb)", 
         "xsec": 0.2139534
     }, 
     {
         "DataSetName": "/TTWJetsToQQ_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 1, 
-        "lumi": 2047.875431, 
+        "lumi": 1057.522872, 
         "name": "ttWJetsToQQ", 
         "nevt": 831847, 
-        "path": "/store/group/CAT/TTWJetsToQQ_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081219", 
+        "path": "/store/group/CAT/TTWJetsToQQ_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101215", 
         "title": "ttW+Jets#rightarrow qq", 
         "xsec": 0.4062
     }, 
     {
         "DataSetName": "/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 1, 
-        "lumi": 1929.515419, 
+        "lumi": 994.4722467, 
         "name": "ttWJetsToLNu", 
         "nevt": 394200, 
-        "path": "/store/group/CAT/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081307", 
+        "path": "/store/group/CAT/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101336", 
         "title": "ttW+Jets#rightarrow l#nu", 
         "xsec": 0.2043
     }, 
     {
         "DataSetName": "/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 2, 
-        "lumi": 1558.718861, 
+        "lumi": 724.3366548, 
         "name": "ttZToLLNuNu", 
         "nevt": 394200, 
-        "path": "/store/group/CAT/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081409", 
+        "path": "/store/group/CAT/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101445", 
         "title": "ttZ#rightarrow ll", 
         "xsec": 0.2529
     }, 
     {
         "DataSetName": "/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 2, 
-        "lumi": 1410.232207, 
+        "lumi": 660.9758354, 
         "name": "ttZToQQ", 
         "nevt": 747000, 
-        "path": "/store/group/CAT/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081455", 
+        "path": "/store/group/CAT/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101537", 
         "title": "ttZ#rightarrow qq", 
         "xsec": 0.5297
     }, 
@@ -685,7 +685,7 @@
         "lumi": 0.0, 
         "name": "QCD_Pt-15to20_MuEnriched", 
         "nevt": 0, 
-        "path": "", 
+        "path": "/store/group/CAT/QCD_Pt-15to20_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101639", 
         "title": "QCD", 
         "xsec": 3819570.0
     }, 
@@ -695,7 +695,7 @@
         "lumi": 0.01047544786, 
         "name": "QCD_Pt-20to30_MuEnriched", 
         "nevt": 31009404, 
-        "path": "/store/group/CAT/QCD_Pt-20to30_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081631", 
+        "path": "/store/group/CAT/QCD_Pt-20to30_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101746", 
         "title": "QCD", 
         "xsec": 2960198.4
     }, 
@@ -705,7 +705,7 @@
         "lumi": 0.0181173241, 
         "name": "QCD_Pt-30to50_MuEnriched", 
         "nevt": 29938361, 
-        "path": "/store/group/CAT/QCD_Pt-30to50_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081728", 
+        "path": "/store/group/CAT/QCD_Pt-30to50_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101838", 
         "title": "QCD", 
         "xsec": 1652471.46
     }, 
@@ -715,7 +715,7 @@
         "lumi": 0.04592158336, 
         "name": "QCD_Pt-50to80_MuEnriched", 
         "nevt": 20090881, 
-        "path": "/store/group/CAT/QCD_Pt-50to80_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081814", 
+        "path": "/store/group/CAT/QCD_Pt-50to80_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101925", 
         "title": "QCD", 
         "xsec": 437504.1
     }, 
@@ -725,7 +725,7 @@
         "lumi": 0.1288246995, 
         "name": "QCD_Pt-80to120_MuEnriched", 
         "nevt": 13659755, 
-        "path": "/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081859", 
+        "path": "/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018", 
         "title": "QCD", 
         "xsec": 106033.6648
     }, 
@@ -735,7 +735,7 @@
         "lumi": 0.3134195135, 
         "name": "QCD_Pt-120to170_MuEnriched", 
         "nevt": 7895199, 
-        "path": "/store/group/CAT/QCD_Pt-120to170_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_081945", 
+        "path": "/store/group/CAT/QCD_Pt-120to170_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102114", 
         "title": "QCD", 
         "xsec": 25190.51514
     }, 
@@ -745,7 +745,7 @@
         "lumi": 0.9139971415, 
         "name": "QCD_Pt-170to300_MuEnriched", 
         "nevt": 7910182, 
-        "path": "/store/group/CAT/QCD_Pt-170to300_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082033", 
+        "path": "/store/group/CAT/QCD_Pt-170to300_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102207", 
         "title": "QCD", 
         "xsec": 8654.49315
     }, 
@@ -755,7 +755,7 @@
         "lumi": 9.839585541, 
         "name": "QCD_Pt-300to470_MuEnriched", 
         "nevt": 7845620, 
-        "path": "/store/group/CAT/QCD_Pt-300to470_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082119", 
+        "path": "/store/group/CAT/QCD_Pt-300to470_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102255", 
         "title": "QCD", 
         "xsec": 797.35269
     }, 
@@ -765,7 +765,7 @@
         "lumi": 48.60785651, 
         "name": "QCD_Pt-470to600_MuEnriched", 
         "nevt": 3841262, 
-        "path": "/store/group/CAT/QCD_Pt-470to600_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082207", 
+        "path": "/store/group/CAT/QCD_Pt-470to600_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102356", 
         "title": "QCD", 
         "xsec": 79.02553776
     }, 
@@ -775,7 +775,7 @@
         "lumi": 157.2574899, 
         "name": "QCD_Pt-600to800_MuEnriched", 
         "nevt": 3946386, 
-        "path": "/store/group/CAT/QCD_Pt-600to800_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v3/160325_082256", 
+        "path": "/store/group/CAT/QCD_Pt-600to800_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v3/160524_102445", 
         "title": "QCD", 
         "xsec": 25.09505908
     }, 
@@ -785,7 +785,7 @@
         "lumi": 778.802462, 
         "name": "QCD_Pt-800to1000_MuEnriched", 
         "nevt": 3666110, 
-        "path": "/store/group/CAT/QCD_Pt-800to1000_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082343", 
+        "path": "/store/group/CAT/QCD_Pt-800to1000_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102543", 
         "title": "QCD", 
         "xsec": 4.707368272
     }, 
@@ -795,7 +795,7 @@
         "lumi": 2429.372044, 
         "name": "QCD_Pt-1000toInf_MuEnriched", 
         "nevt": 3938782, 
-        "path": "/store/group/CAT/QCD_Pt-1000toInf_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v3/160325_082427", 
+        "path": "/store/group/CAT/QCD_Pt-1000toInf_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v3/160524_102636", 
         "title": "QCD", 
         "xsec": 1.62131692
     }, 
@@ -805,7 +805,7 @@
         "lumi": 0.002376464686, 
         "name": "QCD_Pt-15to20_EMEnriched", 
         "nevt": 5471097, 
-        "path": "/store/group/CAT/QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082511", 
+        "path": "/store/group/CAT/QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102723", 
         "title": "QCD", 
         "xsec": 2302200.0
     }, 
@@ -815,7 +815,7 @@
         "lumi": 0.00172994418, 
         "name": "QCD_Pt-20to30_EMEnriched", 
         "nevt": 9260322, 
-        "path": "/store/group/CAT/QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082555", 
+        "path": "/store/group/CAT/QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102819", 
         "title": "QCD", 
         "xsec": 5352960.0
     }, 
@@ -825,7 +825,7 @@
         "lumi": 0.0, 
         "name": "QCD_Pt-30to50_EMEnriched", 
         "nevt": 0, 
-        "path": "", 
+        "path": "/store/group/CAT/QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102908", 
         "title": "QCD", 
         "xsec": 9928000.0
     }, 
@@ -835,7 +835,7 @@
         "lumi": 0.007770794936, 
         "name": "QCD_Pt-50to80_EMEnriched", 
         "nevt": 22463814, 
-        "path": "/store/group/CAT/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082731", 
+        "path": "/store/group/CAT/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102956", 
         "title": "QCD", 
         "xsec": 2890800.0
     }, 
@@ -845,7 +845,7 @@
         "lumi": 0.1025448857, 
         "name": "QCD_Pt-80to120_EMEnriched", 
         "nevt": 35890710, 
-        "path": "/store/group/CAT/QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082817", 
+        "path": "/store/group/CAT/QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103107", 
         "title": "QCD", 
         "xsec": 350000.0
     }, 
@@ -855,7 +855,7 @@
         "lumi": 0.0, 
         "name": "QCD_Pt-120to170_EMEnriched", 
         "nevt": 0, 
-        "path": "", 
+        "path": "/store/group/CAT/QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103156", 
         "title": "QCD", 
         "xsec": 62964.0
     }, 
@@ -865,7 +865,7 @@
         "lumi": 0.6123801701, 
         "name": "QCD_Pt-170to300_EMEnriched", 
         "nevt": 11518871, 
-        "path": "/store/group/CAT/QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_082949", 
+        "path": "/store/group/CAT/QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103247", 
         "title": "QCD", 
         "xsec": 18810.0
     }, 
@@ -875,7 +875,7 @@
         "lumi": 5.247412593, 
         "name": "QCD_Pt-300toInf_EMEnriched", 
         "nevt": 7084007, 
-        "path": "/store/group/CAT/QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083035", 
+        "path": "/store/group/CAT/QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103335", 
         "title": "QCD", 
         "xsec": 1350.0
     }, 
@@ -885,7 +885,7 @@
         "lumi": 0.7318502058, 
         "name": "QCD_DoubleEM_Pt_30to40", 
         "nevt": 17783960, 
-        "path": "/store/group/CAT/QCD_Pt-30to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083122", 
+        "path": "/store/group/CAT/QCD_Pt-30to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103448", 
         "title": "QCD", 
         "xsec": 24300.0
     }, 
@@ -895,7 +895,7 @@
         "lumi": 0.1835896711, 
         "name": "QCD_DoubleEM_Pt_40toInf", 
         "nevt": 19871746, 
-        "path": "/store/group/CAT/QCD_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083209", 
+        "path": "/store/group/CAT/QCD_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103537", 
         "title": "QCD", 
         "xsec": 108240.0
     }, 
@@ -905,7 +905,7 @@
         "lumi": 0.1383525585, 
         "name": "QCD_DoubleEM_Pt_30toInf", 
         "nevt": 35874265, 
-        "path": "/store/group/CAT/QCD_Pt-30toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083257", 
+        "path": "/store/group/CAT/QCD_Pt-30toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103629", 
         "title": "QCD", 
         "xsec": 259296.0
     }, 
@@ -915,7 +915,7 @@
         "lumi": 0.0, 
         "name": "QCD_Pt-15to20_bcToE", 
         "nevt": 0, 
-        "path": "", 
+        "path": "/store/group/CAT/QCD_Pt_15to20_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103719", 
         "title": "QCD", 
         "xsec": 254596.0
     }, 
@@ -925,7 +925,7 @@
         "lumi": 0.03222122266, 
         "name": "QCD_Pt-20to30_bcToE", 
         "nevt": 10600780, 
-        "path": "/store/group/CAT/QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083432", 
+        "path": "/store/group/CAT/QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103809", 
         "title": "QCD", 
         "xsec": 328999.93
     }, 
@@ -935,7 +935,7 @@
         "lumi": 0.03683056254, 
         "name": "QCD_Pt-30to80_bcToE", 
         "nevt": 14939338, 
-        "path": "/store/group/CAT/QCD_Pt_30to80_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v2/160325_083518", 
+        "path": "/store/group/CAT/QCD_Pt_30to80_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v2/160524_103904", 
         "title": "QCD", 
         "xsec": 405623.4
     }, 
@@ -945,7 +945,7 @@
         "lumi": 0.4027112858, 
         "name": "QCD_Pt-80to170_bcToE", 
         "nevt": 15345084, 
-        "path": "/store/group/CAT/QCD_Pt_80to170_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083603", 
+        "path": "/store/group/CAT/QCD_Pt_80to170_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103956", 
         "title": "QCD", 
         "xsec": 38104.43
     }, 
@@ -955,7 +955,7 @@
         "lumi": 3.618831018, 
         "name": "QCD_Pt-170to250_bcToE", 
         "nevt": 9538563, 
-        "path": "/store/group/CAT/QCD_Pt_170to250_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083651", 
+        "path": "/store/group/CAT/QCD_Pt_170to250_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104043", 
         "title": "QCD", 
         "xsec": 2635.81332
     }, 
@@ -965,7 +965,7 @@
         "lumi": 14.04886569, 
         "name": "QCD_Pt-250toINF_bcToE", 
         "nevt": 10001751, 
-        "path": "/store/group/CAT/QCD_Pt_250toInf_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083736", 
+        "path": "/store/group/CAT/QCD_Pt_250toInf_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104135", 
         "title": "QCD", 
         "xsec": 711.925875
     }, 
@@ -975,7 +975,7 @@
         "lumi": 4745.551692, 
         "name": "QCD_HT1000to1500", 
         "nevt": 5049267, 
-        "path": "/store/group/CAT/QCD_HT1000to1500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083822", 
+        "path": "/store/group/CAT/QCD_HT1000to1500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104226", 
         "title": "QCD", 
         "xsec": 1.064
     }, 
@@ -985,7 +985,7 @@
         "lumi": 82095.8, 
         "name": "QCD_HT100to200", 
         "nevt": 82095800, 
-        "path": "/store/group/CAT/QCD_HT100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083909", 
+        "path": "/store/group/CAT/QCD_HT100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104324", 
         "title": "QCD", 
         "xsec": 1.0
     }, 
@@ -995,7 +995,7 @@
         "lumi": 154.9597561, 
         "name": "QCD_HT1500to2000", 
         "nevt": 3939077, 
-        "path": "/store/group/CAT/QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_083955", 
+        "path": "/store/group/CAT/QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104428", 
         "title": "QCD", 
         "xsec": 25.42
     }, 
@@ -1005,7 +1005,7 @@
         "lumi": 16.30640329, 
         "name": "QCD_HT2000toInf", 
         "nevt": 1981228, 
-        "path": "/store/group/CAT/QCD_HT2000toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084040", 
+        "path": "/store/group/CAT/QCD_HT2000toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104515", 
         "title": "QCD", 
         "xsec": 121.5
     }, 
@@ -1015,7 +1015,7 @@
         "lumi": 0.01076321034, 
         "name": "QCD_HT200to300", 
         "nevt": 18727986, 
-        "path": "/store/group/CAT/QCD_HT200to300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084127", 
+        "path": "/store/group/CAT/QCD_HT200to300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104603", 
         "title": "QCD", 
         "xsec": 1740000.0
     }, 
@@ -1025,7 +1025,7 @@
         "lumi": 0.04596728338, 
         "name": "QCD_HT300to500", 
         "nevt": 16869993, 
-        "path": "/store/group/CAT/QCD_HT300to500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084212", 
+        "path": "/store/group/CAT/QCD_HT300to500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104654", 
         "title": "QCD", 
         "xsec": 367000.0
     }, 
@@ -1035,7 +1035,7 @@
         "lumi": 0.6673156803, 
         "name": "QCD_HT500to700", 
         "nevt": 19619081, 
-        "path": "/store/group/CAT/QCD_HT500to700_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084259", 
+        "path": "/store/group/CAT/QCD_HT500to700_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104742", 
         "title": "QCD", 
         "xsec": 29400.0
     }, 
@@ -1045,7 +1045,7 @@
         "lumi": 2.37563504, 
         "name": "QCD_HT700to1000", 
         "nevt": 15498643, 
-        "path": "/store/group/CAT/QCD_HT700to1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084344", 
+        "path": "/store/group/CAT/QCD_HT700to1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104833", 
         "title": "QCD", 
         "xsec": 6524.0
     }, 
@@ -1055,7 +1055,7 @@
         "lumi": 9810.28, 
         "name": "QCD_Pt-15TTo7000", 
         "nevt": 9810280, 
-        "path": "/store/group/CAT/QCD_Pt-15TTo7000_TuneZ2star-Flat_13TeV_pythia6/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084433", 
+        "path": "/store/group/CAT/QCD_Pt-15TTo7000_TuneZ2star-Flat_13TeV_pythia6/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104923", 
         "title": "QCD", 
         "xsec": 1.0
     }, 
@@ -1065,7 +1065,7 @@
         "lumi": 726.5430067, 
         "name": "QCD_Pt_1000to1400", 
         "nevt": 6842800, 
-        "path": "/store/group/CAT/QCD_Pt_1000to1400_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084521", 
+        "path": "/store/group/CAT/QCD_Pt_1000to1400_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105014", 
         "title": "QCD", 
         "xsec": 9.4183
     }, 
@@ -1075,7 +1075,7 @@
         "lumi": 1.162243231e-06, 
         "name": "QCD_Pt_10to15", 
         "nevt": 6842800, 
-        "path": "/store/group/CAT/QCD_Pt_10to15_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084606", 
+        "path": "/store/group/CAT/QCD_Pt_10to15_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105105", 
         "title": "QCD", 
         "xsec": 5887580000.0
     }, 
@@ -1085,7 +1085,7 @@
         "lumi": 0.01453666525, 
         "name": "QCD_Pt_120to170", 
         "nevt": 6848223, 
-        "path": "/store/group/CAT/QCD_Pt_120to170_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084653", 
+        "path": "/store/group/CAT/QCD_Pt_120to170_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105202", 
         "title": "QCD", 
         "xsec": 471100.0
     }, 
@@ -1095,7 +1095,7 @@
         "lumi": 469.6196523, 
         "name": "QCD_Pt_1400to1800", 
         "nevt": 395725, 
-        "path": "/store/group/CAT/QCD_Pt_1400to1800_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084741", 
+        "path": "/store/group/CAT/QCD_Pt_1400to1800_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105251", 
         "title": "QCD", 
         "xsec": 0.84265
     }, 
@@ -1105,7 +1105,7 @@
         "lumi": 2.061121905e-05, 
         "name": "QCD_Pt_15to30", 
         "nevt": 37871260, 
-        "path": "/store/group/CAT/QCD_Pt_15to30_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084825", 
+        "path": "/store/group/CAT/QCD_Pt_15to30_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105340", 
         "title": "QCD", 
         "xsec": 1837410000.0
     }, 
@@ -1115,7 +1115,7 @@
         "lumi": 0.05899542958, 
         "name": "QCD_Pt_170to300", 
         "nevt": 6918748, 
-        "path": "/store/group/CAT/QCD_Pt_170to300_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_084916", 
+        "path": "/store/group/CAT/QCD_Pt_170to300_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105427", 
         "title": "QCD", 
         "xsec": 117276.0
     }, 
@@ -1125,7 +1125,7 @@
         "lumi": 3425.697955, 
         "name": "QCD_Pt_1800to2400", 
         "nevt": 393760, 
-        "path": "/store/group/CAT/QCD_Pt_1800to2400_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085000", 
+        "path": "/store/group/CAT/QCD_Pt_1800to2400_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105517", 
         "title": "QCD", 
         "xsec": 0.114943
     }, 
@@ -1135,7 +1135,7 @@
         "lumi": 58340.12952, 
         "name": "QCD_Pt_2400to3200", 
         "nevt": 398452, 
-        "path": "/store/group/CAT/QCD_Pt_2400to3200_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085049", 
+        "path": "/store/group/CAT/QCD_Pt_2400to3200_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105607", 
         "title": "QCD", 
         "xsec": 0.00682981
     }, 
@@ -1145,7 +1145,7 @@
         "lumi": 0.7630014061, 
         "name": "QCD_Pt_300to470", 
         "nevt": 5968960, 
-        "path": "/store/group/CAT/QCD_Pt_300to470_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085134", 
+        "path": "/store/group/CAT/QCD_Pt_300to470_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105654", 
         "title": "QCD", 
         "xsec": 7823.0
     }, 
@@ -1155,7 +1155,7 @@
         "lumi": 6.959402407e-05, 
         "name": "QCD_Pt_30to50", 
         "nevt": 9808025, 
-        "path": "/store/group/CAT/QCD_Pt_30to50_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085220", 
+        "path": "/store/group/CAT/QCD_Pt_30to50_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105746", 
         "title": "QCD", 
         "xsec": 140932000.0
     }, 
@@ -1165,7 +1165,7 @@
         "lumi": 2363975.944, 
         "name": "QCD_Pt_3200toInf", 
         "nevt": 391108, 
-        "path": "/store/group/CAT/QCD_Pt_3200toInf_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085306", 
+        "path": "/store/group/CAT/QCD_Pt_3200toInf_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105833", 
         "title": "QCD", 
         "xsec": 0.000165445
     }, 
@@ -1175,7 +1175,7 @@
         "lumi": 6.136639926, 
         "name": "QCD_Pt_470to600", 
         "nevt": 3977770, 
-        "path": "/store/group/CAT/QCD_Pt_470to600_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085350", 
+        "path": "/store/group/CAT/QCD_Pt_470to600_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105926", 
         "title": "QCD", 
         "xsec": 648.2
     }, 
@@ -1185,7 +1185,7 @@
         "lumi": 0.0005090193342, 
         "name": "QCD_Pt_50to80", 
         "nevt": 9775360, 
-        "path": "/store/group/CAT/QCD_Pt_50to80_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085437", 
+        "path": "/store/group/CAT/QCD_Pt_50to80_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110022", 
         "title": "QCD", 
         "xsec": 19204300.0
     }, 
@@ -1195,7 +1195,7 @@
         "lumi": 1.1458097e-07, 
         "name": "QCD_Pt_5to10", 
         "nevt": 6991536, 
-        "path": "/store/group/CAT/QCD_Pt_5to10_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085529", 
+        "path": "/store/group/CAT/QCD_Pt_5to10_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110137", 
         "title": "QCD", 
         "xsec": 61018300000.0
     }, 
@@ -1205,7 +1205,7 @@
         "lumi": 21.29418941, 
         "name": "QCD_Pt_600to800", 
         "nevt": 3979884, 
-        "path": "/store/group/CAT/QCD_Pt_600to800_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085618", 
+        "path": "/store/group/CAT/QCD_Pt_600to800_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110225", 
         "title": "QCD", 
         "xsec": 186.9
     }, 
@@ -1215,7 +1215,7 @@
         "lumi": 123.0366953, 
         "name": "QCD_Pt_800to1000", 
         "nevt": 3973224, 
-        "path": "/store/group/CAT/QCD_Pt_800to1000_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085703", 
+        "path": "/store/group/CAT/QCD_Pt_800to1000_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110321", 
         "title": "QCD", 
         "xsec": 32.293
     }, 
@@ -1225,7 +1225,7 @@
         "lumi": 0.002517109316, 
         "name": "QCD_Pt_80to120", 
         "nevt": 6953590, 
-        "path": "/store/group/CAT/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085750", 
+        "path": "/store/group/CAT/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110410", 
         "title": "QCD", 
         "xsec": 2762530.0
     }, 
@@ -1235,7 +1235,7 @@
         "lumi": 112.9930032, 
         "name": "GJets_Pt20to40", 
         "nevt": 24701495, 
-        "path": "/store/group/CAT/GJet_Pt-20to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085835", 
+        "path": "/store/group/CAT/GJet_Pt-20to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110508", 
         "title": "Gamma", 
         "xsec": 218.610837
     }, 
@@ -1245,17 +1245,17 @@
         "lumi": 82.97134498, 
         "name": "GJets_Pt40toInfo", 
         "nevt": 71613298, 
-        "path": "/store/group/CAT/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_085921", 
+        "path": "/store/group/CAT/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110553", 
         "title": "Gamma", 
         "xsec": 863.1088
     }, 
     {
         "DataSetName": "/TTGJets_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 900, 
-        "lumi": 1318.39762, 
+        "lumi": 427.028989, 
         "name": "TTG", 
         "nevt": 4874116, 
-        "path": "/store/group/CAT/TTGJets_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_090009", 
+        "path": "/store/group/CAT/TTGJets_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110654", 
         "title": "Gamma", 
         "xsec": 3.697
     }, 
@@ -1265,17 +1265,17 @@
         "lumi": 15.05723331, 
         "name": "WGtoLNuG", 
         "nevt": 6102260, 
-        "path": "/store/group/CAT/WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_090057", 
+        "path": "/store/group/CAT/WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110747", 
         "title": "Gamma", 
         "xsec": 405.271
     }, 
     {
         "DataSetName": "/ZGTo2LG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "colour": 900, 
-        "lumi": 37.54170909, 
+        "lumi": 25.68979153, 
         "name": "ZGto2LG", 
         "nevt": 4424816, 
-        "path": "/store/group/CAT/ZGTo2LG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160325_090143", 
+        "path": "/store/group/CAT/ZGTo2LG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110837", 
         "title": "Gamma", 
         "xsec": 117.864
     }, 
@@ -1285,7 +1285,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-10_Mphi-100", 
         "nevt": 249971, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-10_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_090230", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-10_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_110925", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-10_Mphi-100", 
         "xsec": 0.1901
     }, 
@@ -1295,7 +1295,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-10_Mphi-10", 
         "nevt": 249863, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-10_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_090318", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-10_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_111020", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-10_Mphi-10", 
         "xsec": 0.01499
     }, 
@@ -1305,7 +1305,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-150_Mphi-200", 
         "nevt": 243139, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-150_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_090406", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-150_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_111117", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-150_Mphi-200", 
         "xsec": 0.0004124
     }, 
@@ -1315,7 +1315,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-150_Mphi-500", 
         "nevt": 251043, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-150_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_090452", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-150_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_111220", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-150_Mphi-500", 
         "xsec": 0.004611
     }, 
@@ -1325,7 +1325,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-100", 
         "nevt": 249971, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_090539", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160525_121402", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-100", 
         "xsec": 0.1909
     }, 
@@ -1335,7 +1335,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-10", 
         "nevt": 252054, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_090626", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_112044", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-10", 
         "xsec": 0.4409
     }, 
@@ -1345,7 +1345,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-200", 
         "nevt": 240536, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_090713", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_112320", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-200", 
         "xsec": 0.0836
     }, 
@@ -1355,7 +1355,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-20", 
         "nevt": 247516, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-20_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v2/160325_090759", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-20_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v2/160524_112407", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-20", 
         "xsec": 0.3992
     }, 
@@ -1365,7 +1365,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-300", 
         "nevt": 250250, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_090848", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_112628", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-300", 
         "xsec": 0.03999
     }, 
@@ -1375,7 +1375,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-500", 
         "nevt": 244681, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v2/160325_090939", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v2/160524_112928", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-500", 
         "xsec": 0.005408
     }, 
@@ -1385,7 +1385,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-50", 
         "nevt": 255516, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091029", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113033", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-50", 
         "xsec": 0.3032
     }, 
@@ -1395,7 +1395,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-50_Mphi-200", 
         "nevt": 239809, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-50_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091124", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-50_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113131", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-50_Mphi-200", 
         "xsec": 0.08382
     }, 
@@ -1405,7 +1405,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-50_Mphi-300", 
         "nevt": 256765, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-50_Mphi-300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091210", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-50_Mphi-300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113224", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-50_Mphi-300", 
         "xsec": 0.03989
     }, 
@@ -1415,7 +1415,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-50_Mphi-50", 
         "nevt": 253334, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-50_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091258", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-50_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113316", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-50_Mphi-50", 
         "xsec": 0.002979
     }, 
@@ -1425,7 +1425,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-500_Mphi-500", 
         "nevt": 258498, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-500_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091343", 
+        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-500_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113402", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-500_Mphi-500", 
         "xsec": 3.275e-06
     }, 
@@ -1435,7 +1435,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-10_Mphi-100", 
         "nevt": 244948, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-10_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091435", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-10_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113453", 
         "title": "TTbarDMJets_scalar_Mchi-10_Mphi-100", 
         "xsec": 0.6732
     }, 
@@ -1445,7 +1445,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-10_Mphi-10", 
         "nevt": 245622, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-10_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091525", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-10_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113729", 
         "title": "TTbarDMJets_scalar_Mchi-10_Mphi-10", 
         "xsec": 0.09487
     }, 
@@ -1455,7 +1455,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-10_Mphi-50", 
         "nevt": 254833, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-10_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091612", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-10_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113823", 
         "title": "TTbarDMJets_scalar_Mchi-10_Mphi-50", 
         "xsec": 2.942
     }, 
@@ -1465,7 +1465,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-150_Mphi-200", 
         "nevt": 237784, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-150_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091658", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-150_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113907", 
         "title": "TTbarDMJets_scalar_Mchi-150_Mphi-200", 
         "xsec": 0.00013
     }, 
@@ -1475,7 +1475,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-1000", 
         "nevt": 258859, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091745", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113956", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-1000", 
         "xsec": 0.0003687
     }, 
@@ -1485,7 +1485,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-10", 
         "nevt": 240379, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091830", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114046", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-10", 
         "xsec": 19.59
     }, 
@@ -1495,7 +1495,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-20", 
         "nevt": 251225, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-20_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_091916", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-20_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114321", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-20", 
         "xsec": 10.48
     }, 
@@ -1505,7 +1505,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-500", 
         "nevt": 250524, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_092008", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114406", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-500", 
         "xsec": 0.00518
     }, 
@@ -1515,7 +1515,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-50", 
         "nevt": 253308, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_092056", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114456", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-50", 
         "xsec": 2.941
     }, 
@@ -1525,7 +1525,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-50_Mphi-300", 
         "nevt": 252187, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-50_Mphi-300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_092152", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-50_Mphi-300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114656", 
         "title": "TTbarDMJets_scalar_Mchi-50_Mphi-300", 
         "xsec": 0.02901
     }, 
@@ -1535,7 +1535,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-50_Mphi-50", 
         "nevt": 245362, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-50_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_092250", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-50_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114743", 
         "title": "TTbarDMJets_scalar_Mchi-50_Mphi-50", 
         "xsec": 0.002329
     }, 
@@ -1545,7 +1545,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-100", 
         "nevt": 257761, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_092335", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114837", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-100", 
         "xsec": 0.6723
     }, 
@@ -1555,7 +1555,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-200", 
         "nevt": 254295, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_092425", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114926", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-200", 
         "xsec": 0.09327
     }, 
@@ -1565,7 +1565,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-300", 
         "nevt": 254030, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_092511", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_115219", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-300", 
         "xsec": 0.0295
     }, 
@@ -1575,7 +1575,7 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-50_Mphi-200", 
         "nevt": 251025, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-50_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160327_192442", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-50_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_115312", 
         "title": "TTbarDMJets_scalar_Mchi-50_Mphi-200", 
         "xsec": 0.09224
     }, 
@@ -1585,8 +1585,68 @@
         "lumi": 0.0, 
         "name": "TTbarDMJets_scalar_Mchi-500_Mphi-500", 
         "nevt": 253947, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-500_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-4_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160325_092620", 
+        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-500_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_115358", 
         "title": "TTbarDMJets_scalar_Mchi-500_Mphi-500", 
         "xsec": 9.894e-07
+    }, 
+    {
+        "DataSetName": "/ST_tW_antitop_5f_mtop1695_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+        "colour": 800, 
+        "lumi": 0.0, 
+        "name": "SingleTbar_tW_mtop_1695", 
+        "nevt": 1, 
+        "path": "/store/group/CAT/ST_tW_antitop_5f_mtop1695_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115450", 
+        "title": "Single top/mtop1695", 
+        "xsec": 35.6
+    }, 
+    {
+        "DataSetName": "/ST_tW_top_5f_mtop1695_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+        "colour": 800, 
+        "lumi": 0.0, 
+        "name": "SingleTop_tW_mtop_1695", 
+        "nevt": 1, 
+        "path": "/store/group/CAT/ST_tW_top_5f_mtop1695_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115536", 
+        "title": "Single top/mtop1695", 
+        "xsec": 35.6
+    }, 
+    {
+        "DataSetName": "/ST_t-channel_4f_mtop1695_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+        "colour": 800, 
+        "lumi": 0.0, 
+        "name": "SingleTop_t_mtop_1695", 
+        "nevt": 1, 
+        "path": "/store/group/CAT/ST_t-channel_4f_mtop1695_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115626", 
+        "title": "Single top/mtop1695", 
+        "xsec": 44.33
+    }, 
+    {
+        "DataSetName": "/ST_tW_antitop_5f_mtop1755_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+        "colour": 800, 
+        "lumi": 0.0, 
+        "name": "SingleTbar_tW_mtop_1755", 
+        "nevt": 1, 
+        "path": "/store/group/CAT/ST_tW_antitop_5f_mtop1755_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115713", 
+        "title": "Single top/mtop1755", 
+        "xsec": 35.6
+    }, 
+    {
+        "DataSetName": "/ST_tW_top_5f_mtop1755_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+        "colour": 800, 
+        "lumi": 0.0, 
+        "name": "SingleTop_tW_mtop_1755", 
+        "nevt": 1, 
+        "path": "/store/group/CAT/ST_tW_top_5f_mtop1755_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115804", 
+        "title": "Single top/mtop1755", 
+        "xsec": 35.6
+    }, 
+    {
+        "DataSetName": "/ST_t-channel_4f_mtop1755_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+        "colour": 800, 
+        "lumi": 0.0, 
+        "name": "SingleTop_t_mtop_1755", 
+        "nevt": 1, 
+        "path": "/store/group/CAT/ST_t-channel_4f_mtop1755_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115856", 
+        "title": "Single top/mtop1755", 
+        "xsec": 44.33
     }
 ]
