@@ -1,7 +1,7 @@
-# nevt = 394200
+# nevt = 250307
 # DataSetName = /TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = ttWJetsToLNu
-# lumi = 994.4722467
+# lumi = 631.464649
 # title = ttW+Jets#rightarrow l#nu
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101336
 # colour = 1

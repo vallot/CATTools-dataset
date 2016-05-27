@@ -1,7 +1,7 @@
-# nevt = 114613024
+# nevt = 121212419
 # DataSetName = /DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext4-v1/MINIAODSIM
 # name = DYJets
-# lumi = 19.0222771
+# lumi = 20.11757601
 # title = Z/#gamma#rightarrow ll
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext4-v1/160524_084851
 # colour = 600
