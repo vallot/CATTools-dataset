@@ -385,9 +385,9 @@
     }, 
     {
         "DataSetName": "/TT_TuneEE5C_13TeV-amcatnlo-herwigpp/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
-        "avgWgt": 1.0, 
+        "avgWgt": 0.56170388, 
         "colour": 632, 
-        "lumi": 23.93944888, 
+        "lumi": 13.44688132, 
         "name": "TT_amcatnlo-herwigpp", 
         "nevt": 19911876, 
         "path": "/store/group/CAT/TT_TuneEE5C_13TeV-amcatnlo-herwigpp/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092429", 
