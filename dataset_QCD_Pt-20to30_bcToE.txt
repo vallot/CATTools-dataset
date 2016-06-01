@@ -1,12 +1,14 @@
 # nevt = 10600780
+# lumi = 0.03222122266
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103809
+# avgWgt = 1.0
+# size = 28308428264
 # DataSetName = /QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = QCD_Pt-20to30_bcToE
-# lumi = 0.03222122266
 # title = QCD
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103809
 # colour = 400
 # xsec = 328999.93
-# size = 28308428264
+# type = pythia
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103809/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103809/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103809/0000/catTuple_100.root

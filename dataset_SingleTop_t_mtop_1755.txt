@@ -1,12 +1,14 @@
 # nevt = 2999200
+# lumi = 0.0
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ST_t-channel_4f_mtop1755_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115856
+# avgWgt = 0.21584756
+# size = 11566222291
 # DataSetName = /ST_t-channel_4f_mtop1755_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = SingleTop_t_mtop_1755
-# lumi = 0.0
 # title = Single top/mtop1755
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ST_t-channel_4f_mtop1755_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115856
 # colour = 800
 # xsec = 44.33
-# size = 11566222291
+# type = aMC/m1755
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ST_t-channel_4f_mtop1755_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115856/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ST_t-channel_4f_mtop1755_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115856/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ST_t-channel_4f_mtop1755_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115856/0000/catTuple_11.root

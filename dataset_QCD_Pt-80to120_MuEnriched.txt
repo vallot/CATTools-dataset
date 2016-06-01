@@ -1,12 +1,14 @@
 # nevt = 13659017
+# lumi = 0.1288177394
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018
+# avgWgt = 1.0
+# size = 59452140178
 # DataSetName = /QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = QCD_Pt-80to120_MuEnriched
-# lumi = 0.1288177394
 # title = QCD
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018
 # colour = 400
 # xsec = 106033.6648
-# size = 59065034829
+# type = pythia
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_100.root
@@ -313,6 +315,7 @@ root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_69.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_7.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_70.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_71.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_72.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_73.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_74.root
@@ -320,6 +323,7 @@ root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_76.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_77.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_78.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_79.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_8.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_80.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018/0000/catTuple_81.root

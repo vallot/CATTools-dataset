@@ -1,12 +1,14 @@
 # nevt = 3939077
+# lumi = 154.9597561
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104428
+# avgWgt = 1.0
+# size = 24642010852
 # DataSetName = /QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = QCD_HT1500to2000
-# lumi = 154.9597561
 # title = QCD
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104428
 # colour = 400
 # xsec = 25.42
-# size = 24642010852
+# type = MG
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104428/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104428/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104428/0000/catTuple_11.root

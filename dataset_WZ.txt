@@ -1,12 +1,14 @@
 # nevt = 1000000
+# lumi = 21.21790791
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WZ_TuneCUETP8M1_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093316
+# avgWgt = 1.0
+# size = 2940393358
 # DataSetName = /WZ_TuneCUETP8M1_13TeV-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = WZ
-# lumi = 21.21790791
 # title = Dibosons
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WZ_TuneCUETP8M1_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093316
 # colour = 432
 # xsec = 47.13
-# size = 2940393358
+# type = pythia
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WZ_TuneCUETP8M1_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093316/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WZ_TuneCUETP8M1_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093316/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WZ_TuneCUETP8M1_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093316/0000/catTuple_11.root

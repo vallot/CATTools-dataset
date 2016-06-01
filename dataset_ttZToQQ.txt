@@ -1,12 +1,14 @@
 # nevt = 747000
+# lumi = 660.9514807
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101537
+# avgWgt = 0.46868273
+# size = 5925079812
 # DataSetName = /TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = ttZToQQ
-# lumi = 660.9758354
 # title = ttZ#rightarrow qq
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101537
 # colour = 2
 # xsec = 0.5297
-# size = 5925079812
+# type = aMC
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101537/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101537/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101537/0000/catTuple_11.root

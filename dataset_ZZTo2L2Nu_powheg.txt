@@ -1,12 +1,14 @@
 # nevt = 8785050
+# lumi = 15576.32979
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ZZTo2L2Nu_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093753
+# avgWgt = 1.0
+# size = 28061719760
 # DataSetName = /ZZTo2L2Nu_13TeV_powheg_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = ZZTo2L2Nu_powheg
-# lumi = 15576.32979
 # title = Dibosons:powheg
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ZZTo2L2Nu_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093753
 # colour = 432
 # xsec = 0.564
-# size = 28061719760
+# type = powheg
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ZZTo2L2Nu_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093753/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ZZTo2L2Nu_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093753/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ZZTo2L2Nu_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093753/0000/catTuple_100.root

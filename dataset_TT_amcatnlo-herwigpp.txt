@@ -1,12 +1,14 @@
 # nevt = 19911876
+# lumi = 23.93944888
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/TT_TuneEE5C_13TeV-amcatnlo-herwigpp/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092429
+# avgWgt = 1.0
+# size = 248413195582
 # DataSetName = /TT_TuneEE5C_13TeV-amcatnlo-herwigpp/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = TT_amcatnlo-herwigpp
-# lumi = 23.93944888
 # title = t#bar{t}+Jets:aMC@NLO:herwigpp
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/TT_TuneEE5C_13TeV-amcatnlo-herwigpp/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092429
 # colour = 632
 # xsec = 831.76
-# size = 248413195582
+# type = aMC/herwig
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/TT_TuneEE5C_13TeV-amcatnlo-herwigpp/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092429/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/TT_TuneEE5C_13TeV-amcatnlo-herwigpp/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092429/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/TT_TuneEE5C_13TeV-amcatnlo-herwigpp/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092429/0000/catTuple_100.root

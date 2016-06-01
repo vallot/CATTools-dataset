@@ -1,12 +1,14 @@
 # nevt = 1854782
+# lumi = 0.017226
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleEG/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084012
+# avgWgt = 1.0
+# size = 3040151882
 # DataSetName = /DoubleEG/Run2015C_25ns-16Dec2015-v1/MINIAOD
 # name = DoubleEG_Run2015C
-# lumi = 0.017226
 # title = DoubleEG
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleEG/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084012
 # colour = 0
 # xsec = 0.0
-# size = 3040151882
+# type = Data
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleEG/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084012/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleEG/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084012/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/DoubleEG/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084012/0000/catTuple_11.root

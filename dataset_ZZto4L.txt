@@ -1,12 +1,14 @@
 # nevt = 10747136
+# lumi = 6119.325068
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ZZTo4L_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093610
+# avgWgt = 0.69010218
+# size = 31611826270
 # DataSetName = /ZZTo4L_13TeV-amcatnloFXFX-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = ZZto4L
-# lumi = 8867.273927
 # title = Dibosons:aMC@NLO
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ZZTo4L_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093610
 # colour = 432
 # xsec = 1.212
-# size = 31611826270
+# type = aMC
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ZZTo4L_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093610/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ZZTo4L_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093610/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ZZTo4L_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093610/0000/catTuple_100.root

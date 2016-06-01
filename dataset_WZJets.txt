@@ -1,12 +1,14 @@
 # nevt = 12542004
+# lumi = 1568.066148
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WZJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_123446
+# avgWgt = 0.65763238
+# size = 37251397152
 # DataSetName = /WZJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = WZJets
-# lumi = 2384.411407
 # title = Dibosons:aMC@NLO
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WZJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_123446
 # colour = 432
 # xsec = 5.26
-# size = 37251397152
+# type = aMC
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WZJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_123446/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WZJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_123446/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WZJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_123446/0000/catTuple_100.root

@@ -1,12 +1,14 @@
 # nevt = 3772012
+# lumi = 12924.63918
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ttHTobb_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101010
+# avgWgt = 1.0
+# size = 32599833615
 # DataSetName = /ttHTobb_M125_13TeV_powheg_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = ttH_bb
-# lumi = 12924.63918
 # title = ttH#rightarrow bb
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ttHTobb_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101010
 # colour = 1
 # xsec = 0.2918466
-# size = 32599833615
+# type = powheg
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ttHTobb_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101010/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ttHTobb_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101010/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/ttHTobb_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101010/0000/catTuple_11.root

@@ -1,12 +1,14 @@
 # nevt = 124106846
+# lumi = 2.245037
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SingleElectron/v7-6-5_Run2015D-16Dec2015-v1/160524_083738
+# avgWgt = 1.0
+# size = 176063064455
 # DataSetName = /SingleElectron/Run2015D-16Dec2015-v1/MINIAOD
 # name = SingleElectron_Run2015D
-# lumi = 2.245037
 # title = SingleElectron
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SingleElectron/v7-6-5_Run2015D-16Dec2015-v1/160524_083738
 # colour = 0
 # xsec = 0.0
-# size = 176063064455
+# type = Data
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SingleElectron/v7-6-5_Run2015D-16Dec2015-v1/160524_083738/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SingleElectron/v7-6-5_Run2015D-16Dec2015-v1/160524_083738/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SingleElectron/v7-6-5_Run2015D-16Dec2015-v1/160524_083738/0000/catTuple_100.root

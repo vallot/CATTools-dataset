@@ -1,12 +1,14 @@
 # nevt = 767121
+# lumi = 0.017226
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SingleMuon/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_083512
+# avgWgt = 1.0
+# size = 1244311438
 # DataSetName = /SingleMuon/Run2015C_25ns-16Dec2015-v1/MINIAOD
 # name = SingleMuon_Run2015C
-# lumi = 0.017226
 # title = SingleMuon
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SingleMuon/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_083512
 # colour = 0
 # xsec = 0.0
-# size = 1244311438
+# type = Data
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SingleMuon/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_083512/0000/catTuple_1.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SingleMuon/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_083512/0000/catTuple_10.root
 root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/SingleMuon/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_083512/0000/catTuple_11.root
