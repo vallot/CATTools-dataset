@@ -6,7 +6,7 @@
         "lumi": 0.017226, 
         "name": "SingleMuon_Run2015C", 
         "nevt": 767121, 
-        "path": "/store/group/CAT/SingleMuon/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_083512", 
+        "path": "", 
         "title": "SingleMuon", 
         "type": "Data", 
         "xsec": 0.0
@@ -18,7 +18,7 @@
         "lumi": 2.244918, 
         "name": "SingleMuon_Run2015D", 
         "nevt": 84844187, 
-        "path": "/store/group/CAT/SingleMuon/v7-6-5_Run2015D-16Dec2015-v1/160524_083600", 
+        "path": "", 
         "title": "SingleMuon", 
         "type": "Data", 
         "xsec": 0.0
@@ -30,7 +30,7 @@
         "lumi": 0.017226, 
         "name": "SingleElectron_Run2015C", 
         "nevt": 789291, 
-        "path": "/store/group/CAT/SingleElectron/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_083647", 
+        "path": "", 
         "title": "SingleElectron", 
         "type": "Data", 
         "xsec": 0.0
@@ -42,7 +42,7 @@
         "lumi": 2.245037, 
         "name": "SingleElectron_Run2015D", 
         "nevt": 124106846, 
-        "path": "/store/group/CAT/SingleElectron/v7-6-5_Run2015D-16Dec2015-v1/160524_083738", 
+        "path": "", 
         "title": "SingleElectron", 
         "type": "Data", 
         "xsec": 0.0
@@ -54,7 +54,7 @@
         "lumi": 0.017226, 
         "name": "SinglePhoton_Run2015C", 
         "nevt": 544927, 
-        "path": "/store/group/CAT/SinglePhoton/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_083828", 
+        "path": "", 
         "title": "SinglePhoton", 
         "type": "Data", 
         "xsec": 0.0
@@ -66,7 +66,7 @@
         "lumi": 2.245153, 
         "name": "SinglePhoton_Run2015D", 
         "nevt": 31313463, 
-        "path": "/store/group/CAT/SinglePhoton/v7-6-5_Run2015D-16Dec2015-v1/160524_083919", 
+        "path": "", 
         "title": "SinglePhoton", 
         "type": "Data", 
         "xsec": 0.0
@@ -78,7 +78,7 @@
         "lumi": 0.017226, 
         "name": "DoubleEG_Run2015C", 
         "nevt": 1854782, 
-        "path": "/store/group/CAT/DoubleEG/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084012", 
+        "path": "", 
         "title": "DoubleEG", 
         "type": "Data", 
         "xsec": 0.0
@@ -90,7 +90,7 @@
         "lumi": 2.245508, 
         "name": "DoubleEG_Run2015D", 
         "nevt": 84856800, 
-        "path": "/store/group/CAT/DoubleEG/v7-6-5_Run2015D-16Dec2015-v2/160524_084101", 
+        "path": "", 
         "title": "DoubleEG", 
         "type": "Data", 
         "xsec": 0.0
@@ -102,7 +102,7 @@
         "lumi": 0.017226, 
         "name": "DoubleMuon_Run2015C", 
         "nevt": 709232, 
-        "path": "/store/group/CAT/DoubleMuon/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084148", 
+        "path": "", 
         "title": "DoubleMuon", 
         "type": "Data", 
         "xsec": 0.0
@@ -114,7 +114,7 @@
         "lumi": 2.245584, 
         "name": "DoubleMuon_Run2015D", 
         "nevt": 47327565, 
-        "path": "/store/group/CAT/DoubleMuon/v7-6-5_Run2015D-16Dec2015-v1/160524_084241", 
+        "path": "", 
         "title": "DoubleMuon", 
         "type": "Data", 
         "xsec": 0.0
@@ -126,7 +126,7 @@
         "lumi": 0.017226, 
         "name": "MuonEG_Run2015C", 
         "nevt": 97740, 
-        "path": "/store/group/CAT/MuonEG/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084331", 
+        "path": "", 
         "title": "MuonEG", 
         "type": "Data", 
         "xsec": 0.0
@@ -138,7 +138,7 @@
         "lumi": 2.24563, 
         "name": "MuonEG_Run2015D", 
         "nevt": 12412690, 
-        "path": "/store/group/CAT/MuonEG/v7-6-5_Run2015D-16Dec2015-v1/160524_084420", 
+        "path": "", 
         "title": "MuonEG", 
         "type": "Data", 
         "xsec": 0.0
@@ -150,7 +150,7 @@
         "lumi": 0.017226, 
         "name": "JetHT_Run2015C", 
         "nevt": 1856426, 
-        "path": "/store/group/CAT/JetHT/v7-6-5_Run2015C_25ns-16Dec2015-v1/160524_084511", 
+        "path": "", 
         "title": "JetHT", 
         "type": "Data", 
         "xsec": 0.0
@@ -162,7 +162,7 @@
         "lumi": 2.240569, 
         "name": "JetHT_Run2015D", 
         "nevt": 68971060, 
-        "path": "/store/group/CAT/JetHT/v7-6-5_Run2015D-16Dec2015-v1/160524_084616", 
+        "path": "", 
         "title": "JetHT", 
         "type": "Data", 
         "xsec": 0.0
@@ -174,7 +174,7 @@
         "lumi": 13.4828266, 
         "name": "DYJets", 
         "nevt": 121212419, 
-        "path": "/store/group/CAT/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext4-v1/160524_084851", 
+        "path": "", 
         "title": "Z/#gamma#rightarrow ll", 
         "type": "aMC", 
         "xsec": 6025.2
@@ -186,7 +186,7 @@
         "lumi": 1.208090752, 
         "name": "DYJets_10to50", 
         "nevt": 30899063, 
-        "path": "/store/group/CAT/DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_084945", 
+        "path": "", 
         "title": "Z/#gamma#rightarrow ll", 
         "type": "aMC", 
         "xsec": 18610.0
@@ -198,7 +198,7 @@
         "lumi": 1.494444666, 
         "name": "DYJets_MG", 
         "nevt": 9004328, 
-        "path": "/store/group/CAT/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_085048", 
+        "path": "", 
         "title": "Z/#gamma#rightarrow ll:MG", 
         "type": "MG", 
         "xsec": 6025.2
@@ -210,7 +210,7 @@
         "lumi": 0.1230049222, 
         "name": "DYJets_MG_5to50", 
         "nevt": 8771481, 
-        "path": "/store/group/CAT/DYJetsToLL_M-5to50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_085143", 
+        "path": "", 
         "title": "Z/#gamma#rightarrow ll:MG", 
         "type": "MG", 
         "xsec": 71310.0
@@ -222,7 +222,7 @@
         "lumi": 0.2685181563, 
         "name": "WJets", 
         "nevt": 24156124, 
-        "path": "/store/group/CAT/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_085249", 
+        "path": "", 
         "title": "W+Jets", 
         "type": "aMC", 
         "xsec": 61526.7
@@ -234,7 +234,7 @@
         "lumi": 12.28134438, 
         "name": "TTJets_MG5", 
         "nevt": 10215131, 
-        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_085359", 
+        "path": "", 
         "title": "t#bar{t}+Jets:MG", 
         "type": "MG", 
         "xsec": 831.76
@@ -246,7 +246,7 @@
         "lumi": 15.35468413, 
         "name": "TTJets_aMC", 
         "nevt": 38475776, 
-        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_085454", 
+        "path": "", 
         "title": "t#bar{t}+Jets:aMC@NLO", 
         "type": "aMC", 
         "xsec": 831.76
@@ -258,7 +258,7 @@
         "lumi": 17.01284022, 
         "name": "TTJets_scaleup", 
         "nevt": 41836484, 
-        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-scaleup-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_085942", 
+        "path": "", 
         "title": "t#bar{t}+Jets:aMC@NLO/scaleup", 
         "type": "aMC/scaleup", 
         "xsec": 831.76
@@ -270,7 +270,7 @@
         "lumi": 15.38763935, 
         "name": "TTJets_scaledown", 
         "nevt": 39496023, 
-        "path": "/store/group/CAT/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-scaledown-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_090226", 
+        "path": "", 
         "title": "t#bar{t}+Jets:aMC@NLO/scaledn", 
         "type": "aMC/scaledown", 
         "xsec": 831.76
@@ -282,7 +282,7 @@
         "lumi": 117.8157666, 
         "name": "TT_powheg", 
         "nevt": 97994442, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext3-v1/160524_090311", 
+        "path": "", 
         "title": "t#bar{t}+Jets", 
         "type": "powheg", 
         "xsec": 831.76
@@ -294,7 +294,7 @@
         "lumi": 11.94199769, 
         "name": "TT_powheg_scaledown", 
         "nevt": 9932876, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_13TeV-powheg-scaledown-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160525_115951", 
+        "path": "", 
         "title": "t#bar{t}+Jets:powheg/scaledn", 
         "type": "powheg/scaleup", 
         "xsec": 831.76
@@ -306,7 +306,7 @@
         "lumi": 11.92624796, 
         "name": "TT_powheg_scaleup", 
         "nevt": 9919776, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_13TeV-powheg-scaleup-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_090939", 
+        "path": "", 
         "title": "t#bar{t}+Jets:powheg/scaleup", 
         "type": "powheg/scaledown", 
         "xsec": 831.76
@@ -390,7 +390,7 @@
         "lumi": 20.25506801, 
         "name": "TT_powheg_mtop1665", 
         "nevt": 19916255, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1665_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_091213", 
+        "path": "", 
         "title": "t#bar{t}+Jets:powheg/mtop1665", 
         "type": "powheg/m1665", 
         "xsec": 983.2726799
@@ -402,7 +402,7 @@
         "lumi": 32.46784077, 
         "name": "TT_powheg_mtop1695", 
         "nevt": 29345175, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1695_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_091257", 
+        "path": "", 
         "title": "t#bar{t}+Jets:powheg/mtop1695", 
         "type": "powheg/m1695", 
         "xsec": 903.8228075
@@ -414,7 +414,7 @@
         "lumi": 23.08265006, 
         "name": "TT_powheg_mtop1715", 
         "nevt": 19735911, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1715_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_091353", 
+        "path": "", 
         "title": "t#bar{t}+Jets:powheg/mtop1715", 
         "type": "powheg/m1715", 
         "xsec": 855.0106228
@@ -426,7 +426,7 @@
         "lumi": 24.42856751, 
         "name": "TT_powheg_mtop1735", 
         "nevt": 19768629, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1735_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160525_120157", 
+        "path": "", 
         "title": "t#bar{t}+Jets:powheg/mtop1735", 
         "type": "powheg/m1735", 
         "xsec": 809.2422526
@@ -438,7 +438,7 @@
         "lumi": 12.604985, 
         "name": "TT_powheg_mtop1755", 
         "nevt": 9659200, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1755_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092027", 
+        "path": "", 
         "title": "t#bar{t}+Jets:powheg/mtop1755", 
         "type": "powheg/m1755", 
         "xsec": 766.2999997
@@ -450,7 +450,7 @@
         "lumi": 27.65309324, 
         "name": "TT_powheg_mtop1785", 
         "nevt": 19543889, 
-        "path": "/store/group/CAT/TT_TuneCUETP8M1_mtop1785_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092155", 
+        "path": "", 
         "title": "t#bar{t}+Jets:powheg/mtop1785", 
         "type": "powheg/m1785", 
         "xsec": 706.7523632
@@ -462,7 +462,7 @@
         "lumi": 13.44688132, 
         "name": "TT_amcatnlo-herwigpp", 
         "nevt": 19911876, 
-        "path": "/store/group/CAT/TT_TuneEE5C_13TeV-amcatnlo-herwigpp/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092429", 
+        "path": "", 
         "title": "t#bar{t}+Jets:aMC@NLO:herwigpp", 
         "type": "aMC/herwig", 
         "xsec": 831.76
@@ -474,21 +474,45 @@
         "lumi": 23.30415384, 
         "name": "TT_powheg-herwigpp", 
         "nevt": 19383463, 
-        "path": "/store/group/CAT/TT_TuneEE5C_13TeV-powheg-herwigpp/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092515", 
+        "path": "", 
         "title": "t#bar{t}+Jets:powheg:herwigpp", 
         "type": "powheg/herwig", 
         "xsec": 831.76
     }, 
     {
-        "DataSetName": "/TT_TuneZ2star_13TeV-powheg-pythia6-tauola/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+        "DataSetName": "/TT_TuneCUETP8M1_13TeV-powheg-pythia8-evtgen/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
         "avgWgt": 1.0, 
         "colour": 632, 
-        "lumi": 0.0, 
-        "name": "TT_powheg_pythia6", 
-        "nevt": 0, 
+        "lumi": 17.17995576, 
+        "name": "TT_powheg-evtgen", 
+        "nevt": 14289600, 
         "path": "", 
-        "title": "t#bar{t}+Jets:powheg:pythia6", 
-        "type": "", 
+        "title": "t#bar{t}+Jets:powheg:evtgen", 
+        "type": "powheg/evtgen", 
+        "xsec": 831.76
+    }, 
+    {
+        "DataSetName": "/TT_TuneCUETP8M1mpiOFF_13TeV-powheg-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+        "avgWgt": 1.0, 
+        "colour": 632, 
+        "lumi": 29.4832644, 
+        "name": "TT_powheg_mpiOFF", 
+        "nevt": 24523000, 
+        "path": "", 
+        "title": "t#bar{t}+Jets:powheg:mpiOFF", 
+        "type": "powheg/mpiOFF", 
+        "xsec": 831.76
+    }, 
+    {
+        "DataSetName": "/TT_TuneCUETP8M1noCR_13TeV-powheg-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+        "avgWgt": 1.0, 
+        "colour": 632, 
+        "lumi": 29.42916226, 
+        "name": "TT_powheg_noCR", 
+        "nevt": 24478000, 
+        "path": "", 
+        "title": "t#bar{t}+Jets:powheg:noCR", 
+        "type": "powheg/noCR", 
         "xsec": 831.76
     }, 
     {
@@ -498,7 +522,7 @@
         "lumi": 28.07303371, 
         "name": "SingleTbar_tW", 
         "nevt": 999400, 
-        "path": "/store/group/CAT/ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092716", 
+        "path": "", 
         "title": "Single top", 
         "type": "powheg", 
         "xsec": 35.6
@@ -510,7 +534,7 @@
         "lumi": 28.08988764, 
         "name": "SingleTop_tW", 
         "nevt": 1000000, 
-        "path": "/store/group/CAT/ST_tW_top_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092802", 
+        "path": "", 
         "title": "Single top", 
         "type": "powheg", 
         "xsec": 35.6
@@ -522,7 +546,7 @@
         "lumi": 61.82335102, 
         "name": "SingleTbar_t", 
         "nevt": 1630900, 
-        "path": "/store/group/CAT/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_092851", 
+        "path": "", 
         "title": "Single top", 
         "type": "powheg", 
         "xsec": 26.38
@@ -534,7 +558,7 @@
         "lumi": 74.42364088, 
         "name": "SingleTop_t", 
         "nevt": 3299200, 
-        "path": "/store/group/CAT/ST_t-channel_top_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093030", 
+        "path": "", 
         "title": "Single top", 
         "type": "powheg", 
         "xsec": 44.33
@@ -546,7 +570,7 @@
         "lumi": 185.1029767, 
         "name": "SingleTop_s", 
         "nevt": 998400, 
-        "path": "/store/group/CAT/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v2/160524_093124", 
+        "path": "", 
         "title": "Single top", 
         "type": "aMC", 
         "xsec": 3.36
@@ -558,7 +582,7 @@
         "lumi": 8.327026116, 
         "name": "WW", 
         "nevt": 988418, 
-        "path": "/store/group/CAT/WW_TuneCUETP8M1_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093224", 
+        "path": "", 
         "title": "Dibosons", 
         "type": "pythia", 
         "xsec": 118.7
@@ -570,7 +594,7 @@
         "lumi": 21.21790791, 
         "name": "WZ", 
         "nevt": 1000000, 
-        "path": "/store/group/CAT/WZ_TuneCUETP8M1_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093316", 
+        "path": "", 
         "title": "Dibosons", 
         "type": "pythia", 
         "xsec": 47.13
@@ -582,7 +606,7 @@
         "lumi": 59.65018459, 
         "name": "ZZ", 
         "nevt": 985600, 
-        "path": "/store/group/CAT/ZZ_TuneCUETP8M1_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093403", 
+        "path": "", 
         "title": "Dibosons", 
         "type": "pythia", 
         "xsec": 16.523
@@ -594,7 +618,7 @@
         "lumi": 5309.863057, 
         "name": "ZZTo4L_powheg", 
         "nevt": 6669188, 
-        "path": "/store/group/CAT/ZZTo4L_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093457", 
+        "path": "", 
         "title": "Dibosons:powheg", 
         "type": "powheg", 
         "xsec": 1.256
@@ -606,7 +630,7 @@
         "lumi": 6119.325068, 
         "name": "ZZto4L", 
         "nevt": 10747136, 
-        "path": "/store/group/CAT/ZZTo4L_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093610", 
+        "path": "", 
         "title": "Dibosons:aMC@NLO", 
         "type": "aMC", 
         "xsec": 1.212
@@ -618,7 +642,7 @@
         "lumi": 3000.168031, 
         "name": "ZZTo2L2Q", 
         "nevt": 15301695, 
-        "path": "/store/group/CAT/ZZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093702", 
+        "path": "", 
         "title": "Dibosons:aMC@NLO", 
         "type": "aMC", 
         "xsec": 3.22
@@ -630,7 +654,7 @@
         "lumi": 15576.32979, 
         "name": "ZZTo2L2Nu_powheg", 
         "nevt": 8785050, 
-        "path": "/store/group/CAT/ZZTo2L2Nu_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093753", 
+        "path": "", 
         "title": "Dibosons:powheg", 
         "type": "powheg", 
         "xsec": 0.564
@@ -642,7 +666,7 @@
         "lumi": 162.5872886, 
         "name": "WWTo2L2Nu_powheg", 
         "nevt": 1979988, 
-        "path": "/store/group/CAT/WWTo2L2Nu_13TeV-powheg/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093842", 
+        "path": "", 
         "title": "Dibosons:powheg", 
         "type": "powheg", 
         "xsec": 12.178
@@ -654,7 +678,7 @@
         "lumi": 2751.295075, 
         "name": "WZTo2L2Q", 
         "nevt": 25704656, 
-        "path": "/store/group/CAT/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_093929", 
+        "path": "", 
         "title": "Dibosons:aMC@NLO", 
         "type": "aMC", 
         "xsec": 5.595
@@ -666,7 +690,7 @@
         "lumi": 451.5029404, 
         "name": "WZTo3LNu_powheg", 
         "nevt": 2000000, 
-        "path": "/store/group/CAT/WZTo3LNu_TuneCUETP8M1_13TeV-powheg-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_094240", 
+        "path": "", 
         "title": "Dibosons:powheg", 
         "type": "powheg", 
         "xsec": 4.42965
@@ -678,7 +702,7 @@
         "lumi": 1568.066148, 
         "name": "WZJets", 
         "nevt": 12542004, 
-        "path": "/store/group/CAT/WZJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_123446", 
+        "path": "", 
         "title": "Dibosons:aMC@NLO", 
         "type": "aMC", 
         "xsec": 5.26
@@ -726,7 +750,7 @@
         "lumi": 7802.340702, 
         "name": "WpWpQCD", 
         "nevt": 120000, 
-        "path": "/store/group/CAT/WpWpJJ_QCD_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095208", 
+        "path": "", 
         "title": "Dibosons:MG", 
         "type": "MG", 
         "xsec": 0.01538
@@ -738,7 +762,7 @@
         "lumi": 7063.953488, 
         "name": "WpWpEWK", 
         "nevt": 145800, 
-        "path": "/store/group/CAT/WpWpJJ_EWK_TuneCUETP8M1_13TeV-madgraph-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095258", 
+        "path": "", 
         "title": "Dibosons:MG", 
         "type": "MG", 
         "xsec": 0.02064
@@ -750,7 +774,7 @@
         "lumi": 515.2158537, 
         "name": "WW_dps", 
         "nevt": 844954, 
-        "path": "/store/group/CAT/WW_DoubleScattering_13TeV-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095539", 
+        "path": "", 
         "title": "Dibosons", 
         "type": "pythia", 
         "xsec": 1.64
@@ -762,7 +786,7 @@
         "lumi": 15296.85265, 
         "name": "ZZZ", 
         "nevt": 250000, 
-        "path": "/store/group/CAT/ZZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_095849", 
+        "path": "", 
         "title": "Tribosons", 
         "type": "aMC", 
         "xsec": 0.01398
@@ -774,7 +798,7 @@
         "lumi": 3935.058418, 
         "name": "WZZ", 
         "nevt": 249800, 
-        "path": "/store/group/CAT/WZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_100139", 
+        "path": "", 
         "title": "Tribosons", 
         "type": "aMC", 
         "xsec": 0.05565
@@ -786,7 +810,7 @@
         "lumi": 1332.792246, 
         "name": "WWZ", 
         "nevt": 248400, 
-        "path": "/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160525_120537", 
+        "path": "", 
         "title": "Tribosons", 
         "type": "aMC", 
         "xsec": 0.1651
@@ -798,7 +822,7 @@
         "lumi": 25756.41438, 
         "name": "GG_HToMuMu", 
         "nevt": 250000, 
-        "path": "/store/group/CAT/GluGlu_HToMuMu_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_100814", 
+        "path": "", 
         "title": "GG_H#rightarrow MuMu", 
         "type": "powheg", 
         "xsec": 0.00970632
@@ -810,7 +834,7 @@
         "lumi": 300383.4317, 
         "name": "VBF_HToMuMu", 
         "nevt": 249200, 
-        "path": "/store/group/CAT/VBF_HToMuMu_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_100914", 
+        "path": "", 
         "title": "VBF_H#rightarrow MuMu", 
         "type": "powheg", 
         "xsec": 0.000828308
@@ -822,7 +846,7 @@
         "lumi": 12924.63918, 
         "name": "ttH_bb", 
         "nevt": 3772012, 
-        "path": "/store/group/CAT/ttHTobb_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101010", 
+        "path": "", 
         "title": "ttH#rightarrow bb", 
         "type": "powheg", 
         "xsec": 0.2918466
@@ -834,7 +858,7 @@
         "lumi": 18442.44588, 
         "name": "ttH_nonbb", 
         "nevt": 3945824, 
-        "path": "/store/group/CAT/ttHToNonbb_M125_13TeV_powheg_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101108", 
+        "path": "", 
         "title": "ttH (non bb)", 
         "type": "powheg", 
         "xsec": 0.2139534
@@ -846,7 +870,7 @@
         "lumi": 1057.604624, 
         "name": "ttWJetsToQQ", 
         "nevt": 831847, 
-        "path": "/store/group/CAT/TTWJetsToQQ_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101215", 
+        "path": "", 
         "title": "ttW+Jets#rightarrow qq", 
         "type": "aMC", 
         "xsec": 0.4062
@@ -858,7 +882,7 @@
         "lumi": 631.4292655, 
         "name": "ttWJetsToLNu", 
         "nevt": 250307, 
-        "path": "/store/group/CAT/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101336", 
+        "path": "", 
         "title": "ttW+Jets#rightarrow l#nu", 
         "type": "aMC", 
         "xsec": 0.2043
@@ -870,7 +894,7 @@
         "lumi": 724.3969928, 
         "name": "ttZToLLNuNu", 
         "nevt": 394200, 
-        "path": "/store/group/CAT/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101445", 
+        "path": "", 
         "title": "ttZ#rightarrow ll", 
         "type": "aMC", 
         "xsec": 0.2529
@@ -882,7 +906,7 @@
         "lumi": 660.9514807, 
         "name": "ttZToQQ", 
         "nevt": 747000, 
-        "path": "/store/group/CAT/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101537", 
+        "path": "", 
         "title": "ttZ#rightarrow qq", 
         "type": "aMC", 
         "xsec": 0.5297
@@ -894,7 +918,7 @@
         "lumi": 0.001238220271, 
         "name": "QCD_Pt-15to20_MuEnriched", 
         "nevt": 4729469, 
-        "path": "/store/group/CAT/QCD_Pt-15to20_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101639", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 3819570.0
@@ -906,7 +930,7 @@
         "lumi": 0.01067348695, 
         "name": "QCD_Pt-20to30_MuEnriched", 
         "nevt": 31595639, 
-        "path": "/store/group/CAT/QCD_Pt-20to30_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101746", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 2960198.4
@@ -918,7 +942,7 @@
         "lumi": 0.01809420176, 
         "name": "QCD_Pt-30to50_MuEnriched", 
         "nevt": 29900152, 
-        "path": "/store/group/CAT/QCD_Pt-30to50_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101838", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 1652471.46
@@ -930,7 +954,7 @@
         "lumi": 0.0465787452, 
         "name": "QCD_Pt-50to80_MuEnriched", 
         "nevt": 20378392, 
-        "path": "/store/group/CAT/QCD_Pt-50to80_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_101925", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 437504.1
@@ -942,7 +966,7 @@
         "lumi": 0.1288177394, 
         "name": "QCD_Pt-80to120_MuEnriched", 
         "nevt": 13659017, 
-        "path": "/store/group/CAT/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102018", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 106033.6648
@@ -954,7 +978,7 @@
         "lumi": 0.3164293368, 
         "name": "QCD_Pt-120to170_MuEnriched", 
         "nevt": 7971018, 
-        "path": "/store/group/CAT/QCD_Pt-120to170_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102114", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 25190.51514
@@ -966,7 +990,7 @@
         "lumi": 0.9139971415, 
         "name": "QCD_Pt-170to300_MuEnriched", 
         "nevt": 7910182, 
-        "path": "/store/group/CAT/QCD_Pt-170to300_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102207", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 8654.49315
@@ -978,7 +1002,7 @@
         "lumi": 9.839585541, 
         "name": "QCD_Pt-300to470_MuEnriched", 
         "nevt": 7845620, 
-        "path": "/store/group/CAT/QCD_Pt-300to470_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102255", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 797.35269
@@ -990,7 +1014,7 @@
         "lumi": 48.60785651, 
         "name": "QCD_Pt-470to600_MuEnriched", 
         "nevt": 3841262, 
-        "path": "/store/group/CAT/QCD_Pt-470to600_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102356", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 79.02553776
@@ -1002,7 +1026,7 @@
         "lumi": 158.7921346, 
         "name": "QCD_Pt-600to800_MuEnriched", 
         "nevt": 3984898, 
-        "path": "/store/group/CAT/QCD_Pt-600to800_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v3/160524_102445", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 25.09505908
@@ -1014,7 +1038,7 @@
         "lumi": 778.3758967, 
         "name": "QCD_Pt-800to1000_MuEnriched", 
         "nevt": 3664102, 
-        "path": "/store/group/CAT/QCD_Pt-800to1000_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102543", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 4.707368272
@@ -1026,7 +1050,7 @@
         "lumi": 2429.372044, 
         "name": "QCD_Pt-1000toInf_MuEnriched", 
         "nevt": 3938782, 
-        "path": "/store/group/CAT/QCD_Pt-1000toInf_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v3/160524_102636", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 1.62131692
@@ -1038,7 +1062,7 @@
         "lumi": 0.002376464686, 
         "name": "QCD_Pt-15to20_EMEnriched", 
         "nevt": 5471097, 
-        "path": "/store/group/CAT/QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102723", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 2302200.0
@@ -1050,7 +1074,7 @@
         "lumi": 0.00172994418, 
         "name": "QCD_Pt-20to30_EMEnriched", 
         "nevt": 9260322, 
-        "path": "/store/group/CAT/QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102819", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 5352960.0
@@ -1062,7 +1086,7 @@
         "lumi": 0.0004727630943, 
         "name": "QCD_Pt-30to50_EMEnriched", 
         "nevt": 4693592, 
-        "path": "/store/group/CAT/QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102908", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 9928000.0
@@ -1074,7 +1098,7 @@
         "lumi": 0.007770794936, 
         "name": "QCD_Pt-50to80_EMEnriched", 
         "nevt": 22463814, 
-        "path": "/store/group/CAT/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_102956", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 2890800.0
@@ -1086,7 +1110,7 @@
         "lumi": 0.1025854543, 
         "name": "QCD_Pt-80to120_EMEnriched", 
         "nevt": 35904909, 
-        "path": "/store/group/CAT/QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103107", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 350000.0
@@ -1098,7 +1122,7 @@
         "lumi": 0.5700115622, 
         "name": "QCD_Pt-120to170_EMEnriched", 
         "nevt": 35890208, 
-        "path": "/store/group/CAT/QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103156", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 62964.0
@@ -1110,7 +1134,7 @@
         "lumi": 0.609091547, 
         "name": "QCD_Pt-170to300_EMEnriched", 
         "nevt": 11457012, 
-        "path": "/store/group/CAT/QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103247", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 18810.0
@@ -1122,7 +1146,7 @@
         "lumi": 5.437265185, 
         "name": "QCD_Pt-300toInf_EMEnriched", 
         "nevt": 7340308, 
-        "path": "/store/group/CAT/QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103335", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 1350.0
@@ -1134,7 +1158,7 @@
         "lumi": 0.7338011111, 
         "name": "QCD_DoubleEM_Pt_30to40", 
         "nevt": 17831367, 
-        "path": "/store/group/CAT/QCD_Pt-30to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103448", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 24300.0
@@ -1146,7 +1170,7 @@
         "lumi": 0.1843946415, 
         "name": "QCD_DoubleEM_Pt_40toInf", 
         "nevt": 19958876, 
-        "path": "/store/group/CAT/QCD_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103537", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 108240.0
@@ -1158,7 +1182,7 @@
         "lumi": 0.1459159802, 
         "name": "QCD_DoubleEM_Pt_30toInf", 
         "nevt": 37835430, 
-        "path": "/store/group/CAT/QCD_Pt-30toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103629", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 259296.0
@@ -1170,7 +1194,7 @@
         "lumi": 0.01054848466, 
         "name": "QCD_Pt-15to20_bcToE", 
         "nevt": 2685602, 
-        "path": "/store/group/CAT/QCD_Pt_15to20_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103719", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 254596.0
@@ -1182,7 +1206,7 @@
         "lumi": 0.03222122266, 
         "name": "QCD_Pt-20to30_bcToE", 
         "nevt": 10600780, 
-        "path": "/store/group/CAT/QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103809", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 328999.93
@@ -1194,7 +1218,7 @@
         "lumi": 0.03637248246, 
         "name": "QCD_Pt-30to80_bcToE", 
         "nevt": 14753530, 
-        "path": "/store/group/CAT/QCD_Pt_30to80_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v2/160524_103904", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 405623.4
@@ -1206,7 +1230,7 @@
         "lumi": 0.4018201296, 
         "name": "QCD_Pt-80to170_bcToE", 
         "nevt": 15311127, 
-        "path": "/store/group/CAT/QCD_Pt_80to170_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_103956", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 38104.43
@@ -1218,7 +1242,7 @@
         "lumi": 3.597069234, 
         "name": "QCD_Pt-170to250_bcToE", 
         "nevt": 9481203, 
-        "path": "/store/group/CAT/QCD_Pt_170to250_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104043", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 2635.81332
@@ -1230,7 +1254,7 @@
         "lumi": 14.07290471, 
         "name": "QCD_Pt-250toINF_bcToE", 
         "nevt": 10018865, 
-        "path": "/store/group/CAT/QCD_Pt_250toInf_bcToE_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104135", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 711.925875
@@ -1242,7 +1266,7 @@
         "lumi": 4745.551692, 
         "name": "QCD_HT1000to1500", 
         "nevt": 5049267, 
-        "path": "/store/group/CAT/QCD_HT1000to1500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104226", 
+        "path": "", 
         "title": "QCD", 
         "type": "MG", 
         "xsec": 1.064
@@ -1254,7 +1278,7 @@
         "lumi": 81970.853, 
         "name": "QCD_HT100to200", 
         "nevt": 81970853, 
-        "path": "/store/group/CAT/QCD_HT100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104324", 
+        "path": "", 
         "title": "QCD", 
         "type": "MG", 
         "xsec": 1.0
@@ -1266,7 +1290,7 @@
         "lumi": 154.9597561, 
         "name": "QCD_HT1500to2000", 
         "nevt": 3939077, 
-        "path": "/store/group/CAT/QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104428", 
+        "path": "", 
         "title": "QCD", 
         "type": "MG", 
         "xsec": 25.42
@@ -1278,7 +1302,7 @@
         "lumi": 16.30640329, 
         "name": "QCD_HT2000toInf", 
         "nevt": 1981228, 
-        "path": "/store/group/CAT/QCD_HT2000toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104515", 
+        "path": "", 
         "title": "QCD", 
         "type": "MG", 
         "xsec": 121.5
@@ -1290,7 +1314,7 @@
         "lumi": 0.01079562011, 
         "name": "QCD_HT200to300", 
         "nevt": 18784379, 
-        "path": "/store/group/CAT/QCD_HT200to300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104603", 
+        "path": "", 
         "title": "QCD", 
         "type": "MG", 
         "xsec": 1740000.0
@@ -1302,7 +1326,7 @@
         "lumi": 0.04607358038, 
         "name": "QCD_HT300to500", 
         "nevt": 16909004, 
-        "path": "/store/group/CAT/QCD_HT300to500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104654", 
+        "path": "", 
         "title": "QCD", 
         "type": "MG", 
         "xsec": 367000.0
@@ -1314,7 +1338,7 @@
         "lumi": 0.6689011905, 
         "name": "QCD_HT500to700", 
         "nevt": 19665695, 
-        "path": "/store/group/CAT/QCD_HT500to700_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104742", 
+        "path": "", 
         "title": "QCD", 
         "type": "MG", 
         "xsec": 29400.0
@@ -1326,7 +1350,7 @@
         "lumi": 2.383194666, 
         "name": "QCD_HT700to1000", 
         "nevt": 15547962, 
-        "path": "/store/group/CAT/QCD_HT700to1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104833", 
+        "path": "", 
         "title": "QCD", 
         "type": "MG", 
         "xsec": 6524.0
@@ -1338,7 +1362,7 @@
         "lumi": 9810.28, 
         "name": "QCD_Pt-15TTo7000", 
         "nevt": 9810280, 
-        "path": "/store/group/CAT/QCD_Pt-15TTo7000_TuneZ2star-Flat_13TeV_pythia6/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_104923", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia6", 
         "xsec": 1.0
@@ -1350,7 +1374,7 @@
         "lumi": 313.6428018, 
         "name": "QCD_Pt_1000to1400", 
         "nevt": 2953982, 
-        "path": "/store/group/CAT/QCD_Pt_1000to1400_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105014", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 9.4183
@@ -1362,7 +1386,7 @@
         "lumi": 1.162243231e-06, 
         "name": "QCD_Pt_10to15", 
         "nevt": 6842800, 
-        "path": "/store/group/CAT/QCD_Pt_10to15_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105105", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 5887580000.0
@@ -1374,7 +1398,7 @@
         "lumi": 0.01453666525, 
         "name": "QCD_Pt_120to170", 
         "nevt": 6848223, 
-        "path": "/store/group/CAT/QCD_Pt_120to170_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105202", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 471100.0
@@ -1386,7 +1410,7 @@
         "lumi": 469.6196523, 
         "name": "QCD_Pt_1400to1800", 
         "nevt": 395725, 
-        "path": "/store/group/CAT/QCD_Pt_1400to1800_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105251", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 0.84265
@@ -1398,7 +1422,7 @@
         "lumi": 2.089229677e-05, 
         "name": "QCD_Pt_15to30", 
         "nevt": 38387715, 
-        "path": "/store/group/CAT/QCD_Pt_15to30_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105340", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 1837410000.0
@@ -1410,7 +1434,7 @@
         "lumi": 0.05899542958, 
         "name": "QCD_Pt_170to300", 
         "nevt": 6918748, 
-        "path": "/store/group/CAT/QCD_Pt_170to300_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105427", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 117276.0
@@ -1422,7 +1446,7 @@
         "lumi": 3425.697955, 
         "name": "QCD_Pt_1800to2400", 
         "nevt": 393760, 
-        "path": "/store/group/CAT/QCD_Pt_1800to2400_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105517", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 0.114943
@@ -1434,7 +1458,7 @@
         "lumi": 58340.12952, 
         "name": "QCD_Pt_2400to3200", 
         "nevt": 398452, 
-        "path": "/store/group/CAT/QCD_Pt_2400to3200_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105607", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 0.00682981
@@ -1446,7 +1470,7 @@
         "lumi": 0.7630014061, 
         "name": "QCD_Pt_300to470", 
         "nevt": 5968960, 
-        "path": "/store/group/CAT/QCD_Pt_300to470_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105654", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 7823.0
@@ -1458,7 +1482,7 @@
         "lumi": 6.959402407e-05, 
         "name": "QCD_Pt_30to50", 
         "nevt": 9808025, 
-        "path": "/store/group/CAT/QCD_Pt_30to50_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105746", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 140932000.0
@@ -1470,7 +1494,7 @@
         "lumi": 2363975.944, 
         "name": "QCD_Pt_3200toInf", 
         "nevt": 391108, 
-        "path": "/store/group/CAT/QCD_Pt_3200toInf_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105833", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 0.000165445
@@ -1482,7 +1506,7 @@
         "lumi": 6.136639926, 
         "name": "QCD_Pt_470to600", 
         "nevt": 3977770, 
-        "path": "/store/group/CAT/QCD_Pt_470to600_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_105926", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 648.2
@@ -1494,7 +1518,7 @@
         "lumi": 0.0005090193342, 
         "name": "QCD_Pt_50to80", 
         "nevt": 9775360, 
-        "path": "/store/group/CAT/QCD_Pt_50to80_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110022", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 19204300.0
@@ -1506,7 +1530,7 @@
         "lumi": 1.1458097e-07, 
         "name": "QCD_Pt_5to10", 
         "nevt": 6991536, 
-        "path": "/store/group/CAT/QCD_Pt_5to10_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110137", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 61018300000.0
@@ -1518,7 +1542,7 @@
         "lumi": 21.29418941, 
         "name": "QCD_Pt_600to800", 
         "nevt": 3979884, 
-        "path": "/store/group/CAT/QCD_Pt_600to800_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110225", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 186.9
@@ -1530,7 +1554,7 @@
         "lumi": 123.0366953, 
         "name": "QCD_Pt_800to1000", 
         "nevt": 3973224, 
-        "path": "/store/group/CAT/QCD_Pt_800to1000_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110321", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 32.293
@@ -1542,7 +1566,7 @@
         "lumi": 0.002517109316, 
         "name": "QCD_Pt_80to120", 
         "nevt": 6953590, 
-        "path": "/store/group/CAT/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110410", 
+        "path": "", 
         "title": "QCD", 
         "type": "pythia", 
         "xsec": 2762530.0
@@ -1554,7 +1578,7 @@
         "lumi": 113.1687218, 
         "name": "GJets_Pt20to40", 
         "nevt": 24739909, 
-        "path": "/store/group/CAT/GJet_Pt-20to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110508", 
+        "path": "", 
         "title": "Gamma", 
         "type": "pythia", 
         "xsec": 218.610837
@@ -1566,7 +1590,7 @@
         "lumi": 82.78066913, 
         "name": "GJets_Pt40toInfo", 
         "nevt": 71448724, 
-        "path": "/store/group/CAT/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110553", 
+        "path": "", 
         "title": "Gamma", 
         "type": "pythia", 
         "xsec": 863.1088
@@ -1578,7 +1602,7 @@
         "lumi": 427.0597736, 
         "name": "TTG", 
         "nevt": 4874116, 
-        "path": "/store/group/CAT/TTGJets_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110654", 
+        "path": "", 
         "title": "Gamma", 
         "type": "aMC", 
         "xsec": 3.697
@@ -1590,7 +1614,7 @@
         "lumi": 15.05723331, 
         "name": "WGtoLNuG", 
         "nevt": 6102260, 
-        "path": "/store/group/CAT/WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110747", 
+        "path": "", 
         "title": "Gamma", 
         "type": "MG", 
         "xsec": 405.271
@@ -1602,7 +1626,7 @@
         "lumi": 25.68903131, 
         "name": "ZGto2LG", 
         "nevt": 4424816, 
-        "path": "/store/group/CAT/ZGTo2LG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_110837", 
+        "path": "", 
         "title": "Gamma", 
         "type": "aMC", 
         "xsec": 117.864
@@ -1614,7 +1638,7 @@
         "lumi": 1294.660705, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-10_Mphi-100", 
         "nevt": 246115, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-10_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_110925", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-10_Mphi-100", 
         "type": "MG", 
         "xsec": 0.1901
@@ -1626,7 +1650,7 @@
         "lumi": 16668.64576, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-10_Mphi-10", 
         "nevt": 249863, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-10_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_111020", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-10_Mphi-10", 
         "type": "MG", 
         "xsec": 0.01499
@@ -1638,7 +1662,7 @@
         "lumi": 589570.805, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-150_Mphi-200", 
         "nevt": 243139, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-150_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_111117", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-150_Mphi-200", 
         "type": "MG", 
         "xsec": 0.0004124
@@ -1650,7 +1674,7 @@
         "lumi": 54444.37215, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-150_Mphi-500", 
         "nevt": 251043, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-150_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_111220", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-150_Mphi-500", 
         "type": "MG", 
         "xsec": 0.004611
@@ -1662,7 +1686,7 @@
         "lumi": 1309.434259, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-100", 
         "nevt": 249971, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160525_121402", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-100", 
         "type": "MG", 
         "xsec": 0.1909
@@ -1674,7 +1698,7 @@
         "lumi": 571.6806532, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-10", 
         "nevt": 252054, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_112044", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-10", 
         "type": "MG", 
         "xsec": 0.4409
@@ -1686,7 +1710,7 @@
         "lumi": 2877.22488, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-200", 
         "nevt": 240536, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_112320", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-200", 
         "type": "MG", 
         "xsec": 0.0836
@@ -1698,7 +1722,7 @@
         "lumi": 620.0300601, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-20", 
         "nevt": 247516, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-20_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v2/160524_112407", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-20", 
         "type": "MG", 
         "xsec": 0.3992
@@ -1710,7 +1734,7 @@
         "lumi": 6257.814454, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-300", 
         "nevt": 250250, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_112628", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-300", 
         "type": "MG", 
         "xsec": 0.03999
@@ -1722,7 +1746,7 @@
         "lumi": 45244.26775, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-500", 
         "nevt": 244681, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v2/160524_112928", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-500", 
         "type": "MG", 
         "xsec": 0.005408
@@ -1734,7 +1758,7 @@
         "lumi": 842.7308707, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-50", 
         "nevt": 255516, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-1_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113033", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-1_Mphi-50", 
         "type": "MG", 
         "xsec": 0.3032
@@ -1746,7 +1770,7 @@
         "lumi": 2860.999761, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-50_Mphi-200", 
         "nevt": 239809, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-50_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113131", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-50_Mphi-200", 
         "type": "MG", 
         "xsec": 0.08382
@@ -1758,7 +1782,7 @@
         "lumi": 6436.826272, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-50_Mphi-300", 
         "nevt": 256765, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-50_Mphi-300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113224", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-50_Mphi-300", 
         "type": "MG", 
         "xsec": 0.03989
@@ -1770,7 +1794,7 @@
         "lumi": 85039.94629, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-50_Mphi-50", 
         "nevt": 253334, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-50_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113316", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-50_Mphi-50", 
         "type": "MG", 
         "xsec": 0.002979
@@ -1782,7 +1806,7 @@
         "lumi": 78930687.02, 
         "name": "TTbarDMJets_pseudoscalar_Mchi-500_Mphi-500", 
         "nevt": 258498, 
-        "path": "/store/group/CAT/TTbarDMJets_pseudoscalar_Mchi-500_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113402", 
+        "path": "", 
         "title": "TTbarDMJets_pseudoscalar_Mchi-500_Mphi-500", 
         "type": "MG", 
         "xsec": 3.275e-06
@@ -1794,7 +1818,7 @@
         "lumi": 363.8562092, 
         "name": "TTbarDMJets_scalar_Mchi-10_Mphi-100", 
         "nevt": 244948, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-10_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113453", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-10_Mphi-100", 
         "type": "MG", 
         "xsec": 0.6732
@@ -1806,7 +1830,7 @@
         "lumi": 2589.03763, 
         "name": "TTbarDMJets_scalar_Mchi-10_Mphi-10", 
         "nevt": 245622, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-10_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113729", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-10_Mphi-10", 
         "type": "MG", 
         "xsec": 0.09487
@@ -1818,7 +1842,7 @@
         "lumi": 86.61896669, 
         "name": "TTbarDMJets_scalar_Mchi-10_Mphi-50", 
         "nevt": 254833, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-10_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113823", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-10_Mphi-50", 
         "type": "MG", 
         "xsec": 2.942
@@ -1830,7 +1854,7 @@
         "lumi": 1829107.692, 
         "name": "TTbarDMJets_scalar_Mchi-150_Mphi-200", 
         "nevt": 237784, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-150_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113907", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-150_Mphi-200", 
         "type": "MG", 
         "xsec": 0.00013
@@ -1842,7 +1866,7 @@
         "lumi": 702085.7065, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-1000", 
         "nevt": 258859, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_113956", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-1000", 
         "type": "MG", 
         "xsec": 0.0003687
@@ -1854,7 +1878,7 @@
         "lumi": 12.27049515, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-10", 
         "nevt": 240379, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114046", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-10", 
         "type": "MG", 
         "xsec": 19.59
@@ -1866,7 +1890,7 @@
         "lumi": 23.97185115, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-20", 
         "nevt": 251225, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-20_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114321", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-20", 
         "type": "MG", 
         "xsec": 10.48
@@ -1878,7 +1902,7 @@
         "lumi": 48363.70656, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-500", 
         "nevt": 250524, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114406", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-500", 
         "type": "MG", 
         "xsec": 0.00518
@@ -1890,7 +1914,7 @@
         "lumi": 86.12988779, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-50", 
         "nevt": 253308, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114456", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-50", 
         "type": "MG", 
         "xsec": 2.941
@@ -1902,7 +1926,7 @@
         "lumi": 8693.105826, 
         "name": "TTbarDMJets_scalar_Mchi-50_Mphi-300", 
         "nevt": 252187, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-50_Mphi-300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114656", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-50_Mphi-300", 
         "type": "MG", 
         "xsec": 0.02901
@@ -1914,7 +1938,7 @@
         "lumi": 105350.7943, 
         "name": "TTbarDMJets_scalar_Mchi-50_Mphi-50", 
         "nevt": 245362, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-50_Mphi-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114743", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-50_Mphi-50", 
         "type": "MG", 
         "xsec": 0.002329
@@ -1926,7 +1950,7 @@
         "lumi": 383.4017552, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-100", 
         "nevt": 257761, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114837", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-100", 
         "type": "MG", 
         "xsec": 0.6723
@@ -1938,7 +1962,7 @@
         "lumi": 2726.43937, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-200", 
         "nevt": 254295, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_114926", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-200", 
         "type": "MG", 
         "xsec": 0.09327
@@ -1950,7 +1974,7 @@
         "lumi": 8611.186441, 
         "name": "TTbarDMJets_scalar_Mchi-1_Mphi-300", 
         "nevt": 254030, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-1_Mphi-300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_115219", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-1_Mphi-300", 
         "type": "MG", 
         "xsec": 0.0295
@@ -1962,7 +1986,7 @@
         "lumi": 2721.433218, 
         "name": "TTbarDMJets_scalar_Mchi-50_Mphi-200", 
         "nevt": 251025, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-50_Mphi-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_115312", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-50_Mphi-200", 
         "type": "MG", 
         "xsec": 0.09224
@@ -1974,7 +1998,7 @@
         "lumi": 256667677.4, 
         "name": "TTbarDMJets_scalar_Mchi-500_Mphi-500", 
         "nevt": 253947, 
-        "path": "/store/group/CAT/TTbarDMJets_scalar_Mchi-500_Mphi-500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/v7-6-5_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/160524_115358", 
+        "path": "", 
         "title": "TTbarDMJets_scalar_Mchi-500_Mphi-500", 
         "type": "MG", 
         "xsec": 9.894e-07
@@ -1986,7 +2010,7 @@
         "lumi": 14.02247191, 
         "name": "SingleTbar_tW_mtop_1695", 
         "nevt": 499200, 
-        "path": "/store/group/CAT/ST_tW_antitop_5f_mtop1695_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115450", 
+        "path": "", 
         "title": "Single top/mtop1695", 
         "type": "powheg/m1695", 
         "xsec": 35.6
@@ -1998,7 +2022,7 @@
         "lumi": 13.83426966, 
         "name": "SingleTop_tW_mtop_1695", 
         "nevt": 492500, 
-        "path": "/store/group/CAT/ST_tW_top_5f_mtop1695_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115536", 
+        "path": "", 
         "title": "Single top/mtop1695", 
         "type": "powheg/m1695", 
         "xsec": 35.6
@@ -2010,7 +2034,7 @@
         "lumi": 14.46291479, 
         "name": "SingleTop_t_mtop_1695", 
         "nevt": 2971601, 
-        "path": "/store/group/CAT/ST_t-channel_4f_mtop1695_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115626", 
+        "path": "", 
         "title": "Single top/mtop1695", 
         "type": "aMC/m1695", 
         "xsec": 44.33
@@ -2022,7 +2046,7 @@
         "lumi": 14.02247191, 
         "name": "SingleTbar_tW_mtop_1755", 
         "nevt": 499200, 
-        "path": "/store/group/CAT/ST_tW_antitop_5f_mtop1755_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115713", 
+        "path": "", 
         "title": "Single top/mtop1755", 
         "type": "powheg/m1755", 
         "xsec": 35.6
@@ -2034,7 +2058,7 @@
         "lumi": 13.61797753, 
         "name": "SingleTop_tW_mtop_1755", 
         "nevt": 484800, 
-        "path": "/store/group/CAT/ST_tW_top_5f_mtop1755_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115804", 
+        "path": "", 
         "title": "Single top/mtop1755", 
         "type": "powheg/m1755", 
         "xsec": 35.6
@@ -2046,7 +2070,7 @@
         "lumi": 14.60342887, 
         "name": "SingleTop_t_mtop_1755", 
         "nevt": 2999200, 
-        "path": "/store/group/CAT/ST_t-channel_4f_mtop1755_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/v7-6-5_RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160524_115856", 
+        "path": "", 
         "title": "Single top/mtop1755", 
         "type": "aMC/m1755", 
         "xsec": 44.33
