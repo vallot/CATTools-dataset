@@ -1,9 +1,19 @@
-# nevt = 0
+# nevt = 248400
+# lumi = 1332.792246
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-6_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160625_140957
+# avgWgt = 0.88584541
+# size = 1141358752
 # DataSetName = /WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM
 # name = WWZ
-# lumi = 0.0
 # title = Tribosons
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd
 # colour = 433
 # xsec = 0.1651
-# size = 20606
+# type = aMC
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-6_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160625_140957/0000/catTuple_1.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-6_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160625_140957/0000/catTuple_2.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-6_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160625_140957/0000/catTuple_3.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-6_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160625_140957/0000/catTuple_4.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-6_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160625_140957/0000/catTuple_5.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-6_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160625_140957/0000/catTuple_6.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-6_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160625_140957/0000/catTuple_7.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v7-6-6_RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160625_140957/0000/catTuple_8.root
