@@ -1,0 +1,11 @@
+# nevt = 104607105
+# lumi = 1198.111385
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd
+# avgWgt = 1.0
+# size = 20606
+# DataSetName = /TTTo2L2Nu_13TeV-powheg/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0_ext1-v1/MINIAODSIM
+# name = TTLL_powheg
+# title = t#bar{t}+Jets#rightarrow l^{+}l^{-}
+# colour = 632
+# xsec = 87.31
+# type = powheg

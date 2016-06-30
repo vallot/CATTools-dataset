@@ -1,0 +1,11 @@
+# nevt = 8959436
+# lumi = 0.1256406675
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd
+# avgWgt = 1.0
+# size = 20606
+# DataSetName = /DYJetsToLL_M-5to50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM
+# name = DYJets_MG_5to50
+# title = Z/#gamma#rightarrow ll
+# colour = 600
+# xsec = 71310.0
+# type = MG
