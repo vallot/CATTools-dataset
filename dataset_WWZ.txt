@@ -1,11 +1,21 @@
 # nevt = 249200
 # lumi = 0.0
-# path = root://cms-xrdr.sdfarm.kr:1094///xrd
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v8-0-0_RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/160705_222307
 # avgWgt = 0.0
-# size = 20606
+# size = 1184727295
 # DataSetName = /WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM
 # name = WWZ
 # title = Tribosons
 # colour = 433
 # xsec = 0.1651
 # type = aMC
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v8-0-0_RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/160705_222307/0000/catTuple_1.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v8-0-0_RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/160705_222307/0000/catTuple_10.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v8-0-0_RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/160705_222307/0000/catTuple_2.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v8-0-0_RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/160705_222307/0000/catTuple_3.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v8-0-0_RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/160705_222307/0000/catTuple_4.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v8-0-0_RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/160705_222307/0000/catTuple_5.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v8-0-0_RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/160705_222307/0000/catTuple_6.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v8-0-0_RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/160705_222307/0000/catTuple_7.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v8-0-0_RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/160705_222307/0000/catTuple_8.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/v8-0-0_RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/160705_222307/0000/catTuple_9.root
