@@ -1,5 +1,5 @@
-# nevt = 9828800
-# lumi = 11.81687025
+# nevt = 8228004
+# lumi = 9.892281427
 # path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/TT_TuneCUETP8M1_alphaS01273_13TeV-powheg-scaleup-pythia8/v8-0-0_RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/160705_220521
 # avgWgt = 1.0
 # size = 79948573764
