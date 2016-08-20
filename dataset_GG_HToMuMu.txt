@@ -1,0 +1,17 @@
+# nevt = 250000
+# lumi = 25756.41438
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/GluGlu_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/160810_125641
+# avgWgt = 1.0
+# size = 920725307
+# DataSetName = /GluGlu_HToMuMu_M125_13TeV_powheg_pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM
+# name = GG_HToMuMu
+# title = GG_H#rightarrow MuMu
+# colour = 800
+# xsec = 0.00970632
+# type = powheg
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/GluGlu_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/160810_125641/0000/catTuple_1.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/GluGlu_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/160810_125641/0000/catTuple_2.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/GluGlu_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/160810_125641/0000/catTuple_3.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/GluGlu_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/160810_125641/0000/catTuple_4.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/GluGlu_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/160810_125641/0000/catTuple_5.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/GluGlu_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/160810_125641/0000/catTuple_6.root

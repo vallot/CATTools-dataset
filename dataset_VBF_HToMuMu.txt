@@ -1,0 +1,19 @@
+# nevt = 243770
+# lumi = 293838.1586
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/VBF_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v2/160810_125753
+# avgWgt = 0.99843499
+# size = 1040716050
+# DataSetName = /VBF_HToMuMu_M125_13TeV_powheg_pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v2/MINIAODSIM
+# name = VBF_HToMuMu
+# title = VBF_H#rightarrow MuMu
+# colour = 800
+# xsec = 0.000828308
+# type = powheg
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/VBF_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v2/160810_125753/0000/catTuple_1.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/VBF_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v2/160810_125753/0000/catTuple_2.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/VBF_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v2/160810_125753/0000/catTuple_3.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/VBF_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v2/160810_125753/0000/catTuple_4.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/VBF_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v2/160810_125753/0000/catTuple_5.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/VBF_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v2/160810_125753/0000/catTuple_6.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/VBF_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v2/160810_125753/0000/catTuple_7.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/CAT/VBF_HToMuMu_M125_13TeV_powheg_pythia8/v8-0-1_RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v2/160810_125753/0000/catTuple_8.root
